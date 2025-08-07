@@ -1,0 +1,314 @@
+{
+  "reviews": {
+    "身热": {
+      "text": "身热",
+      "selected_type": "症状",
+      "confidence": "高",
+      "doc_name": "01 刺热论",
+      "reason": "single_model",
+      "timestamp": "2025-08-07 10:28:52",
+      "context": "问曰：五脏热病奈何？岐伯曰：肝热病者，小便先黄，腹痛，多卧，【身热】。热争则狂言及惊，胁满痛，手足躁，不得安卧，庚辛甚，甲乙大汗"
+    }
+  },
+  "statistics": {
+    "total_reviewed": 1,
+    "confirmed_entities": 1,
+    "rejected_entities": 0,
+    "type_corrections": 0
+  },
+  "reviewers": {},
+  "last_updated": "2025-08-07 10:33:02",
+  "completed_reviews": [
+    {
+      "id": 1,
+      "priority": "high",
+      "doc_name": "02_百症赋",
+      "entity_text": "偏头痛",
+      "conflict_type": "type_disagreement",
+      "question": "实体\"偏头痛\"的正确类型是什么？",
+      "context": {
+        "full_sentence": "悬颅、颔厌之中，偏头痛止；",
+        "highlighted_context": "百症赋\n\n百症俞穴，再三用心。囟会连于玉枕，头风疗以金针。悬颅、颔厌之中，【偏头痛】止；强间、丰隆之际，头痛难禁。\n\n原夫面肿虚浮，须仗水沟前顶；耳聋气闭，全凭听会、翳风。面上虫行有验",
+        "position_info": "位置: 37"
+      },
+      "models_opinion": {
+        "deepseek": "deepseek: 病名",
+        "doubao": "doubao: 症状",
+        "tongyi": "tongyi: 病名"
+      },
+      "options": [
+        "症状",
+        "病名",
+        "其他",
+        "无效实体"
+      ],
+      "human_decision": {
+        "selected_option": "病名",
+        "notes": "无",
+        "reviewer": "匿名",
+        "timestamp": "2025-08-07 11:39:52"
+      }
+    },
+    {
+      "id": 1,
+      "priority": "high",
+      "doc_name": "04_玉龙赋",
+      "entity_text": "坚疝气",
+      "conflict_type": "type_disagreement",
+      "question": "实体\"坚疝气\"的正确类型是什么？",
+      "context": {
+        "full_sentence": "期门、大敦，能治坚疝气；",
+        "highlighted_context": "补虚劳。\n\n天井治瘰瘾疹，神门治呆咳嗽风痰，太渊、列缺宜刺；羸喘促，璇玑、气海当知。期门、大敦，能治【坚疝气】；劳宫、大陵，可疗心闷疮痍。心悸虚烦刺三里，时疫疟寻后溪。绝骨、三里、阴交，脚气宜此；睛明、太阳、鱼",
+        "position_info": "位置: 198"
+      },
+      "models_opinion": {
+        "deepseek": "deepseek: 病名",
+        "tongyi": "tongyi: 症状"
+      },
+      "options": [
+        "症状",
+        "病名",
+        "其他",
+        "无效实体"
+      ],
+      "human_decision": {
+        "selected_option": "病名",
+        "notes": "",
+        "reviewer": "匿名",
+        "timestamp": "2025-08-07 11:39:52"
+      }
+    },
+    {
+      "id": 2,
+      "priority": "high",
+      "doc_name": "02_百症赋",
+      "entity_text": "攀睛",
+      "conflict_type": "type_disagreement",
+      "question": "实体\"攀睛\"的正确类型是什么？",
+      "context": {
+        "full_sentence": "攀睛攻少泽、肝俞之所，泪出刺临泣、头维之处。",
+        "highlighted_context": "、翳风。面上虫行有验，迎香可取；耳中蝉噪有声，听会堪攻。\n\n目眩兮，支正、飞扬；目黄兮，阳纲、胆俞。【攀睛】攻少泽、肝俞之所，泪出刺临泣、头维之处。目中漠漠，即寻攒竹、三间；目觉，急取养老、天柱。观其雀目肝气",
+        "position_info": "位置: 130"
+      },
+      "models_opinion": {
+        "deepseek": "deepseek: 症状",
+        "doubao": "doubao: 病名",
+        "tongyi": "tongyi: 病名"
+      },
+      "options": [
+        "症状",
+        "病名",
+        "其他",
+        "无效实体"
+      ],
+      "human_decision": {
+        "selected_option": "病名",
+        "notes": "",
+        "reviewer": "匿名",
+        "timestamp": "2025-08-07 11:39:52"
+      }
+    },
+    {
+      "id": 2,
+      "priority": "high",
+      "doc_name": "04_玉龙赋",
+      "entity_text": "伤寒未解",
+      "conflict_type": "type_disagreement",
+      "question": "实体\"伤寒未解\"的正确类型是什么？",
+      "context": {
+        "full_sentence": "期门刺伤寒未解，经不再传；",
+        "highlighted_context": "。风门主伤冒寒邪之嗽，天枢理感患脾泄之危。风池、绝骨，而疗乎伛偻；人中、曲池，可治其痿伛。\n\n期门刺【伤寒未解】，经不再传；鸠尾针癫痫已发，慎其妄施。阴交、水分、三里，蛊胀宜刺；商丘、解溪、丘墟，脚痛堪追。尺泽理",
+        "position_info": "位置: 379"
+      },
+      "models_opinion": {
+        "deepseek": "deepseek: 病名",
+        "tongyi": "tongyi: 症状"
+      },
+      "options": [
+        "症状",
+        "病名",
+        "其他",
+        "无效实体"
+      ],
+      "human_decision": {
+        "selected_option": "无效",
+        "notes": "",
+        "reviewer": "匿名",
+        "timestamp": "2025-08-07 11:39:52"
+      }
+    },
+    {
+      "id": 3,
+      "priority": "high",
+      "doc_name": "04_玉龙赋",
+      "entity_text": "癫痫已发",
+      "conflict_type": "type_disagreement",
+      "question": "实体\"癫痫已发\"的正确类型是什么？",
+      "context": {
+        "full_sentence": "鸠尾针癫痫已发，慎其妄施。",
+        "highlighted_context": "理感患脾泄之危。风池、绝骨，而疗乎伛偻；人中、曲池，可治其痿伛。\n\n期门刺伤寒未解，经不再传；鸠尾针【癫痫已发】，慎其妄施。阴交、水分、三里，蛊胀宜刺；商丘、解溪、丘墟，脚痛堪追。尺泽理筋急之不用，腕骨疗手腕之难",
+        "position_info": "位置: 392"
+      },
+      "models_opinion": {
+        "deepseek": "deepseek: 病名",
+        "tongyi": "tongyi: 症状"
+      },
+      "options": [
+        "症状",
+        "病名",
+        "其他",
+        "无效实体"
+      ],
+      "human_decision": {
+        "selected_option": "无效",
+        "notes": "",
+        "reviewer": "匿名",
+        "timestamp": "2025-08-07 11:39:52"
+      }
+    },
+    {
+      "id": 4,
+      "priority": "high",
+      "doc_name": "04_玉龙赋",
+      "entity_text": "背缝",
+      "conflict_type": "type_disagreement",
+      "question": "实体\"背缝\"的正确类型是什么？",
+      "context": {
+        "full_sentence": "肩脊痛兮，五枢兼于背缝；",
+        "highlighted_context": "、三里，蛊胀宜刺；商丘、解溪、丘墟，脚痛堪追。尺泽理筋急之不用，腕骨疗手腕之难移。肩脊痛兮，五枢兼于【背缝】；肘挛痛兮，尺泽合于曲池。风湿传于两肩，肩可疗；壅热盛乎三焦，关冲最宜。手臂红肿，中渚、液门要辨；脾",
+        "position_info": "位置: 457"
+      },
+      "models_opinion": {
+        "deepseek": "deepseek: 穴位",
+        "tongyi": "tongyi: 症状"
+      },
+      "options": [
+        "穴位",
+        "症状",
+        "其他",
+        "无效实体"
+      ],
+      "human_decision": {
+        "selected_option": "无效",
+        "notes": "",
+        "reviewer": "匿名",
+        "timestamp": "2025-08-07 11:39:52"
+      }
+    },
+    {
+      "id": 1,
+      "priority": "medium",
+      "doc_name": "03_刺疟论",
+      "entity_text": "善呕",
+      "conflict_type": "model_specific",
+      "question": "实体\"善呕\"是否应该被识别为症状？",
+      "context": {
+        "full_sentence": "足太阴之疟，令人不乐，好太息，不嗜食，多寒热汗出，病至则善呕，呕已乃衰，即取之。",
+        "highlighted_context": "，喜见日月光火气，乃快然，刺足阳明跗上。\n\n足太阴之疟，令人不乐，好太息，不嗜食，多寒热汗出，病至则【善呕】，呕已乃衰，即取之。\n\n足少阴之疟，令人呕吐甚，多寒热，热多寒少，欲闭户牖而处，其病难已。\n\n足厥阴",
+        "position_info": "位置: 179"
+      },
+      "models_opinion": {
+        "deepseek": "deepseek: 症状",
+        "其他模型": "未识别此实体"
+      },
+      "options": [
+        "是",
+        "否",
+        "是，但类型应该是其他",
+        "无效实体"
+      ],
+      "human_decision": {
+        "selected_option": "症状",
+        "notes": "",
+        "reviewer": "匿名",
+        "timestamp": "2025-08-07 11:39:58"
+      }
+    },
+    {
+      "task_id": "test_001",
+      "doc_name": "测试文档",
+      "entity_text": "肝热病",
+      "priority": "high",
+      "human_decision": {
+        "selected_option": "病名",
+        "notes": "测试完成",
+        "reviewer": "测试员",
+        "timestamp": "2025-08-07 11:40:28"
+      }
+    },
+    {
+      "task_id": "test_003",
+      "doc_name": "测试文档",
+      "entity_text": "小便先黄",
+      "priority": "high",
+      "human_decision": {
+        "selected_option": "症状",
+        "notes": "明确症状",
+        "reviewer": "测试员",
+        "timestamp": "2025-08-07 11:40:28"
+      }
+    },
+    {
+      "task_id": "test_002",
+      "doc_name": "测试文档",
+      "entity_text": "刺足厥阴",
+      "priority": "medium",
+      "question": "实体\"刺足厥阴\"的类型是什么？",
+      "context": {
+        "full_sentence": "刺足厥阴，补足太阴",
+        "highlighted": "【刺足厥阴】，补足太阴"
+      },
+      "models_opinion": {
+        "doubao": {
+          "type": "治法",
+          "confidence": 0.8
+        },
+        "deepseek": {
+          "type": "穴位",
+          "confidence": 0.7
+        },
+        "tongyi": {
+          "type": "治法",
+          "confidence": 0.6
+        }
+      },
+      "human_decision": {
+        "selected_option": "症状",
+        "notes": "",
+        "reviewer": "专家",
+        "timestamp": "2025-08-07 11:41:41"
+      }
+    },
+    {
+      "task_id": "test_002",
+      "doc_name": "测试文档",
+      "entity_text": "刺足厥阴",
+      "priority": "medium",
+      "question": "实体\"刺足厥阴\"的类型是什么？",
+      "context": {
+        "full_sentence": "刺足厥阴，补足太阴",
+        "highlighted": "【刺足厥阴】，补足太阴"
+      },
+      "models_opinion": {
+        "doubao": {
+          "type": "治法",
+          "confidence": 0.8
+        },
+        "deepseek": {
+          "type": "穴位",
+          "confidence": 0.7
+        },
+        "tongyi": {
+          "type": "治法",
+          "confidence": 0.6
+        }
+      },
+      "human_decision": {
+        "selected_option": "无效",
+        "notes": "",
+        "reviewer": "专家",
+        "timestamp": "2025-08-07 14:49:25"
+      }
+    }
+  ]
+}

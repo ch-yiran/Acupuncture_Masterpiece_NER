@@ -1,0 +1,2249 @@
+{
+  "doc_name": "03_刺疟论",
+  "text": "刺疟论\n\n黄帝问曰：刺疟奈何？岐伯对曰：足太阳之疟，令人腰痛头重，寒从背起，先寒后热，然，热止汗出难已，刺中出血。\n\n足少阳之疟，令人身体解，寒不甚，热不甚，恶见人，见人心惕惕然，热多汗出甚，刺足少阳。\n\n足阳明之疟，令人先寒，洒淅洒淅，寒甚久乃热，热去汗出，喜见日月光火气，乃快然，刺足阳明跗上。\n\n足太阴之疟，令人不乐，好太息，不嗜食，多寒热汗出，病至则善呕，呕已乃衰，即取之。\n\n足少阴之疟，令人呕吐甚，多寒热，热多寒少，欲闭户牖而处，其病难已。\n\n足厥阴之疟，令人腰痛，少腹满，小便不利，如癃状，非癃也，数便，意恐惧，气不足，腹中悒悒，刺足厥阴。",
+  "entities": [
+    {
+      "text": "寒从背起",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "先寒后热",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "热止汗出难已",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "身体解",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "寒不甚",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "热不甚",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "恶见人",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "见人心惕惕然",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "热多汗出甚",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "先寒",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "洒淅洒淅",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "寒甚久乃热",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "热去汗出",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "喜见日月光火气",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "乃快然",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "不乐",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "好太息",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "不嗜食",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "多寒热汗出",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "呕已乃衰",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "呕吐甚",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "多寒热",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "热多寒少",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "欲闭户牖而处",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "其病难已",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "少腹满",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "小便不利",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "如癃状",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "数便",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "意恐惧",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "气不足",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "腹中悒悒",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "足太阳之疟",
+      "type": "病名",
+      "confidence": "high",
+      "source": "majority",
+      "supporting_models": [
+        "doubao",
+        "deepseek"
+      ],
+      "reliability_score": 0.8333333333333334
+    },
+    {
+      "text": "足少阳之疟",
+      "type": "病名",
+      "confidence": "high",
+      "source": "majority",
+      "supporting_models": [
+        "doubao",
+        "deepseek"
+      ],
+      "reliability_score": 0.8333333333333334
+    },
+    {
+      "text": "足少阳",
+      "type": "穴位",
+      "confidence": "high",
+      "source": "majority",
+      "supporting_models": [
+        "doubao",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "足阳明之疟",
+      "type": "病名",
+      "confidence": "high",
+      "source": "majority",
+      "supporting_models": [
+        "doubao",
+        "deepseek"
+      ],
+      "reliability_score": 0.8333333333333334
+    },
+    {
+      "text": "足阳明",
+      "type": "穴位",
+      "confidence": "high",
+      "source": "majority",
+      "supporting_models": [
+        "doubao",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "足太阴之疟",
+      "type": "病名",
+      "confidence": "high",
+      "source": "majority",
+      "supporting_models": [
+        "doubao",
+        "deepseek"
+      ],
+      "reliability_score": 0.8333333333333334
+    },
+    {
+      "text": "善呕",
+      "type": "症状",
+      "confidence": "high",
+      "source": "majority",
+      "supporting_models": [
+        "doubao",
+        "deepseek"
+      ],
+      "reliability_score": 0.8333333333333334
+    },
+    {
+      "text": "足少阴之疟",
+      "type": "病名",
+      "confidence": "high",
+      "source": "majority",
+      "supporting_models": [
+        "doubao",
+        "deepseek"
+      ],
+      "reliability_score": 0.8333333333333334
+    },
+    {
+      "text": "足厥阴之疟",
+      "type": "病名",
+      "confidence": "high",
+      "source": "majority",
+      "supporting_models": [
+        "doubao",
+        "deepseek"
+      ],
+      "reliability_score": 0.8333333333333334
+    },
+    {
+      "text": "足厥阴",
+      "type": "穴位",
+      "confidence": "high",
+      "source": "majority",
+      "supporting_models": [
+        "doubao",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "头重",
+      "type": "症状",
+      "confidence": "medium",
+      "source": "majority",
+      "supporting_models": [
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.5
+    },
+    {
+      "text": "刺中出血",
+      "type": "治法",
+      "confidence": "medium",
+      "source": "majority",
+      "supporting_models": [
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.5
+    },
+    {
+      "text": "刺足少阳",
+      "type": "治法",
+      "confidence": "medium",
+      "source": "majority",
+      "supporting_models": [
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.5
+    },
+    {
+      "text": "刺足阳明跗上",
+      "type": "治法",
+      "confidence": "medium",
+      "source": "majority",
+      "supporting_models": [
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.5
+    },
+    {
+      "text": "非癃也",
+      "type": "症状",
+      "confidence": "medium",
+      "source": "majority",
+      "supporting_models": [
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.5
+    },
+    {
+      "text": "刺足厥阴",
+      "type": "治法",
+      "confidence": "medium",
+      "source": "majority",
+      "supporting_models": [
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.5
+    },
+    {
+      "text": "腰痛头重",
+      "type": "症状",
+      "confidence": "medium",
+      "source": "doubao_only",
+      "supporting_models": [
+        "doubao"
+      ],
+      "reliability_score": 1.0
+    },
+    {
+      "text": "刺",
+      "type": "治法",
+      "confidence": "medium",
+      "source": "doubao_only",
+      "supporting_models": [
+        "doubao",
+        "doubao",
+        "doubao",
+        "doubao"
+      ],
+      "reliability_score": 1.0
+    },
+    {
+      "text": "出血",
+      "type": "治法",
+      "confidence": "medium",
+      "source": "doubao_only",
+      "supporting_models": [
+        "doubao"
+      ],
+      "reliability_score": 1.0
+    },
+    {
+      "text": "跗上",
+      "type": "穴位",
+      "confidence": "medium",
+      "source": "doubao_only",
+      "supporting_models": [
+        "doubao"
+      ],
+      "reliability_score": 1.0
+    },
+    {
+      "text": "取之",
+      "type": "治法",
+      "confidence": "medium",
+      "source": "doubao_only",
+      "supporting_models": [
+        "doubao"
+      ],
+      "reliability_score": 1.0
+    },
+    {
+      "text": "腰痛",
+      "type": "症状",
+      "confidence": "medium",
+      "source": "doubao_only",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "deepseek",
+        "tongyi",
+        "tongyi"
+      ],
+      "reliability_score": 0.6
+    }
+  ],
+  "char_labels": [
+    "B-TRE",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "B-TRE",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "O",
+    "B-DIS",
+    "I-DIS",
+    "I-DIS",
+    "I-DIS",
+    "I-DIS",
+    "O",
+    "O",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "O",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "I-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "B-TRE",
+    "I-TRE",
+    "I-TRE",
+    "I-TRE",
+    "O",
+    "O",
+    "O",
+    "B-DIS",
+    "I-DIS",
+    "I-DIS",
+    "I-DIS",
+    "I-DIS",
+    "O",
+    "O",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "I-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "B-TRE",
+    "I-TRE",
+    "I-TRE",
+    "I-TRE",
+    "O",
+    "O",
+    "O",
+    "B-DIS",
+    "I-DIS",
+    "I-DIS",
+    "I-DIS",
+    "I-DIS",
+    "O",
+    "O",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "I-SYM",
+    "I-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "B-TRE",
+    "I-TRE",
+    "I-TRE",
+    "I-TRE",
+    "I-TRE",
+    "I-TRE",
+    "O",
+    "O",
+    "O",
+    "B-DIS",
+    "I-DIS",
+    "I-DIS",
+    "I-DIS",
+    "I-DIS",
+    "O",
+    "O",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "O",
+    "O",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "O",
+    "B-TRE",
+    "I-TRE",
+    "O",
+    "O",
+    "O",
+    "B-DIS",
+    "I-DIS",
+    "I-DIS",
+    "I-DIS",
+    "I-DIS",
+    "O",
+    "O",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "I-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "O",
+    "O",
+    "B-DIS",
+    "I-DIS",
+    "I-DIS",
+    "I-DIS",
+    "I-DIS",
+    "O",
+    "O",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "B-SYM",
+    "I-SYM",
+    "I-SYM",
+    "I-SYM",
+    "O",
+    "B-TRE",
+    "I-TRE",
+    "I-TRE",
+    "I-TRE",
+    "O"
+  ],
+  "bio_format": [
+    {
+      "char": "刺",
+      "label": "B-TRE",
+      "position": 0
+    },
+    {
+      "char": "疟",
+      "label": "O",
+      "position": 1
+    },
+    {
+      "char": "论",
+      "label": "O",
+      "position": 2
+    },
+    {
+      "char": "黄",
+      "label": "O",
+      "position": 5
+    },
+    {
+      "char": "帝",
+      "label": "O",
+      "position": 6
+    },
+    {
+      "char": "问",
+      "label": "O",
+      "position": 7
+    },
+    {
+      "char": "曰",
+      "label": "O",
+      "position": 8
+    },
+    {
+      "char": "：",
+      "label": "O",
+      "position": 9
+    },
+    {
+      "char": "刺",
+      "label": "B-TRE",
+      "position": 10
+    },
+    {
+      "char": "疟",
+      "label": "O",
+      "position": 11
+    },
+    {
+      "char": "奈",
+      "label": "O",
+      "position": 12
+    },
+    {
+      "char": "何",
+      "label": "O",
+      "position": 13
+    },
+    {
+      "char": "？",
+      "label": "O",
+      "position": 14
+    },
+    {
+      "char": "岐",
+      "label": "O",
+      "position": 15
+    },
+    {
+      "char": "伯",
+      "label": "O",
+      "position": 16
+    },
+    {
+      "char": "对",
+      "label": "O",
+      "position": 17
+    },
+    {
+      "char": "曰",
+      "label": "O",
+      "position": 18
+    },
+    {
+      "char": "：",
+      "label": "O",
+      "position": 19
+    },
+    {
+      "char": "足",
+      "label": "B-DIS",
+      "position": 20
+    },
+    {
+      "char": "太",
+      "label": "I-DIS",
+      "position": 21
+    },
+    {
+      "char": "阳",
+      "label": "I-DIS",
+      "position": 22
+    },
+    {
+      "char": "之",
+      "label": "I-DIS",
+      "position": 23
+    },
+    {
+      "char": "疟",
+      "label": "I-DIS",
+      "position": 24
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 25
+    },
+    {
+      "char": "令",
+      "label": "O",
+      "position": 26
+    },
+    {
+      "char": "人",
+      "label": "O",
+      "position": 27
+    },
+    {
+      "char": "腰",
+      "label": "B-SYM",
+      "position": 28
+    },
+    {
+      "char": "痛",
+      "label": "I-SYM",
+      "position": 29
+    },
+    {
+      "char": "头",
+      "label": "I-SYM",
+      "position": 30
+    },
+    {
+      "char": "重",
+      "label": "I-SYM",
+      "position": 31
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 32
+    },
+    {
+      "char": "寒",
+      "label": "B-SYM",
+      "position": 33
+    },
+    {
+      "char": "从",
+      "label": "I-SYM",
+      "position": 34
+    },
+    {
+      "char": "背",
+      "label": "I-SYM",
+      "position": 35
+    },
+    {
+      "char": "起",
+      "label": "I-SYM",
+      "position": 36
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 37
+    },
+    {
+      "char": "先",
+      "label": "B-SYM",
+      "position": 38
+    },
+    {
+      "char": "寒",
+      "label": "I-SYM",
+      "position": 39
+    },
+    {
+      "char": "后",
+      "label": "I-SYM",
+      "position": 40
+    },
+    {
+      "char": "热",
+      "label": "I-SYM",
+      "position": 41
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 42
+    },
+    {
+      "char": "然",
+      "label": "O",
+      "position": 43
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 44
+    },
+    {
+      "char": "热",
+      "label": "B-SYM",
+      "position": 45
+    },
+    {
+      "char": "止",
+      "label": "I-SYM",
+      "position": 46
+    },
+    {
+      "char": "汗",
+      "label": "I-SYM",
+      "position": 47
+    },
+    {
+      "char": "出",
+      "label": "I-SYM",
+      "position": 48
+    },
+    {
+      "char": "难",
+      "label": "I-SYM",
+      "position": 49
+    },
+    {
+      "char": "已",
+      "label": "I-SYM",
+      "position": 50
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 51
+    },
+    {
+      "char": "刺",
+      "label": "B-TRE",
+      "position": 52
+    },
+    {
+      "char": "中",
+      "label": "I-TRE",
+      "position": 53
+    },
+    {
+      "char": "出",
+      "label": "I-TRE",
+      "position": 54
+    },
+    {
+      "char": "血",
+      "label": "I-TRE",
+      "position": 55
+    },
+    {
+      "char": "。",
+      "label": "O",
+      "position": 56
+    },
+    {
+      "char": "足",
+      "label": "B-DIS",
+      "position": 59
+    },
+    {
+      "char": "少",
+      "label": "I-DIS",
+      "position": 60
+    },
+    {
+      "char": "阳",
+      "label": "I-DIS",
+      "position": 61
+    },
+    {
+      "char": "之",
+      "label": "I-DIS",
+      "position": 62
+    },
+    {
+      "char": "疟",
+      "label": "I-DIS",
+      "position": 63
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 64
+    },
+    {
+      "char": "令",
+      "label": "O",
+      "position": 65
+    },
+    {
+      "char": "人",
+      "label": "O",
+      "position": 66
+    },
+    {
+      "char": "身",
+      "label": "B-SYM",
+      "position": 67
+    },
+    {
+      "char": "体",
+      "label": "I-SYM",
+      "position": 68
+    },
+    {
+      "char": "解",
+      "label": "I-SYM",
+      "position": 69
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 70
+    },
+    {
+      "char": "寒",
+      "label": "B-SYM",
+      "position": 71
+    },
+    {
+      "char": "不",
+      "label": "I-SYM",
+      "position": 72
+    },
+    {
+      "char": "甚",
+      "label": "I-SYM",
+      "position": 73
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 74
+    },
+    {
+      "char": "热",
+      "label": "B-SYM",
+      "position": 75
+    },
+    {
+      "char": "不",
+      "label": "I-SYM",
+      "position": 76
+    },
+    {
+      "char": "甚",
+      "label": "I-SYM",
+      "position": 77
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 78
+    },
+    {
+      "char": "恶",
+      "label": "B-SYM",
+      "position": 79
+    },
+    {
+      "char": "见",
+      "label": "I-SYM",
+      "position": 80
+    },
+    {
+      "char": "人",
+      "label": "I-SYM",
+      "position": 81
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 82
+    },
+    {
+      "char": "见",
+      "label": "B-SYM",
+      "position": 83
+    },
+    {
+      "char": "人",
+      "label": "I-SYM",
+      "position": 84
+    },
+    {
+      "char": "心",
+      "label": "I-SYM",
+      "position": 85
+    },
+    {
+      "char": "惕",
+      "label": "I-SYM",
+      "position": 86
+    },
+    {
+      "char": "惕",
+      "label": "I-SYM",
+      "position": 87
+    },
+    {
+      "char": "然",
+      "label": "I-SYM",
+      "position": 88
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 89
+    },
+    {
+      "char": "热",
+      "label": "B-SYM",
+      "position": 90
+    },
+    {
+      "char": "多",
+      "label": "I-SYM",
+      "position": 91
+    },
+    {
+      "char": "汗",
+      "label": "I-SYM",
+      "position": 92
+    },
+    {
+      "char": "出",
+      "label": "I-SYM",
+      "position": 93
+    },
+    {
+      "char": "甚",
+      "label": "I-SYM",
+      "position": 94
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 95
+    },
+    {
+      "char": "刺",
+      "label": "B-TRE",
+      "position": 96
+    },
+    {
+      "char": "足",
+      "label": "I-TRE",
+      "position": 97
+    },
+    {
+      "char": "少",
+      "label": "I-TRE",
+      "position": 98
+    },
+    {
+      "char": "阳",
+      "label": "I-TRE",
+      "position": 99
+    },
+    {
+      "char": "。",
+      "label": "O",
+      "position": 100
+    },
+    {
+      "char": "足",
+      "label": "B-DIS",
+      "position": 103
+    },
+    {
+      "char": "阳",
+      "label": "I-DIS",
+      "position": 104
+    },
+    {
+      "char": "明",
+      "label": "I-DIS",
+      "position": 105
+    },
+    {
+      "char": "之",
+      "label": "I-DIS",
+      "position": 106
+    },
+    {
+      "char": "疟",
+      "label": "I-DIS",
+      "position": 107
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 108
+    },
+    {
+      "char": "令",
+      "label": "O",
+      "position": 109
+    },
+    {
+      "char": "人",
+      "label": "O",
+      "position": 110
+    },
+    {
+      "char": "先",
+      "label": "B-SYM",
+      "position": 111
+    },
+    {
+      "char": "寒",
+      "label": "I-SYM",
+      "position": 112
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 113
+    },
+    {
+      "char": "洒",
+      "label": "B-SYM",
+      "position": 114
+    },
+    {
+      "char": "淅",
+      "label": "I-SYM",
+      "position": 115
+    },
+    {
+      "char": "洒",
+      "label": "I-SYM",
+      "position": 116
+    },
+    {
+      "char": "淅",
+      "label": "I-SYM",
+      "position": 117
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 118
+    },
+    {
+      "char": "寒",
+      "label": "B-SYM",
+      "position": 119
+    },
+    {
+      "char": "甚",
+      "label": "I-SYM",
+      "position": 120
+    },
+    {
+      "char": "久",
+      "label": "I-SYM",
+      "position": 121
+    },
+    {
+      "char": "乃",
+      "label": "I-SYM",
+      "position": 122
+    },
+    {
+      "char": "热",
+      "label": "I-SYM",
+      "position": 123
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 124
+    },
+    {
+      "char": "热",
+      "label": "B-SYM",
+      "position": 125
+    },
+    {
+      "char": "去",
+      "label": "I-SYM",
+      "position": 126
+    },
+    {
+      "char": "汗",
+      "label": "I-SYM",
+      "position": 127
+    },
+    {
+      "char": "出",
+      "label": "I-SYM",
+      "position": 128
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 129
+    },
+    {
+      "char": "喜",
+      "label": "B-SYM",
+      "position": 130
+    },
+    {
+      "char": "见",
+      "label": "I-SYM",
+      "position": 131
+    },
+    {
+      "char": "日",
+      "label": "I-SYM",
+      "position": 132
+    },
+    {
+      "char": "月",
+      "label": "I-SYM",
+      "position": 133
+    },
+    {
+      "char": "光",
+      "label": "I-SYM",
+      "position": 134
+    },
+    {
+      "char": "火",
+      "label": "I-SYM",
+      "position": 135
+    },
+    {
+      "char": "气",
+      "label": "I-SYM",
+      "position": 136
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 137
+    },
+    {
+      "char": "乃",
+      "label": "B-SYM",
+      "position": 138
+    },
+    {
+      "char": "快",
+      "label": "I-SYM",
+      "position": 139
+    },
+    {
+      "char": "然",
+      "label": "I-SYM",
+      "position": 140
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 141
+    },
+    {
+      "char": "刺",
+      "label": "B-TRE",
+      "position": 142
+    },
+    {
+      "char": "足",
+      "label": "I-TRE",
+      "position": 143
+    },
+    {
+      "char": "阳",
+      "label": "I-TRE",
+      "position": 144
+    },
+    {
+      "char": "明",
+      "label": "I-TRE",
+      "position": 145
+    },
+    {
+      "char": "跗",
+      "label": "I-TRE",
+      "position": 146
+    },
+    {
+      "char": "上",
+      "label": "I-TRE",
+      "position": 147
+    },
+    {
+      "char": "。",
+      "label": "O",
+      "position": 148
+    },
+    {
+      "char": "足",
+      "label": "B-DIS",
+      "position": 151
+    },
+    {
+      "char": "太",
+      "label": "I-DIS",
+      "position": 152
+    },
+    {
+      "char": "阴",
+      "label": "I-DIS",
+      "position": 153
+    },
+    {
+      "char": "之",
+      "label": "I-DIS",
+      "position": 154
+    },
+    {
+      "char": "疟",
+      "label": "I-DIS",
+      "position": 155
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 156
+    },
+    {
+      "char": "令",
+      "label": "O",
+      "position": 157
+    },
+    {
+      "char": "人",
+      "label": "O",
+      "position": 158
+    },
+    {
+      "char": "不",
+      "label": "B-SYM",
+      "position": 159
+    },
+    {
+      "char": "乐",
+      "label": "I-SYM",
+      "position": 160
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 161
+    },
+    {
+      "char": "好",
+      "label": "B-SYM",
+      "position": 162
+    },
+    {
+      "char": "太",
+      "label": "I-SYM",
+      "position": 163
+    },
+    {
+      "char": "息",
+      "label": "I-SYM",
+      "position": 164
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 165
+    },
+    {
+      "char": "不",
+      "label": "B-SYM",
+      "position": 166
+    },
+    {
+      "char": "嗜",
+      "label": "I-SYM",
+      "position": 167
+    },
+    {
+      "char": "食",
+      "label": "I-SYM",
+      "position": 168
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 169
+    },
+    {
+      "char": "多",
+      "label": "B-SYM",
+      "position": 170
+    },
+    {
+      "char": "寒",
+      "label": "I-SYM",
+      "position": 171
+    },
+    {
+      "char": "热",
+      "label": "I-SYM",
+      "position": 172
+    },
+    {
+      "char": "汗",
+      "label": "I-SYM",
+      "position": 173
+    },
+    {
+      "char": "出",
+      "label": "I-SYM",
+      "position": 174
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 175
+    },
+    {
+      "char": "病",
+      "label": "O",
+      "position": 176
+    },
+    {
+      "char": "至",
+      "label": "O",
+      "position": 177
+    },
+    {
+      "char": "则",
+      "label": "O",
+      "position": 178
+    },
+    {
+      "char": "善",
+      "label": "B-SYM",
+      "position": 179
+    },
+    {
+      "char": "呕",
+      "label": "I-SYM",
+      "position": 180
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 181
+    },
+    {
+      "char": "呕",
+      "label": "B-SYM",
+      "position": 182
+    },
+    {
+      "char": "已",
+      "label": "I-SYM",
+      "position": 183
+    },
+    {
+      "char": "乃",
+      "label": "I-SYM",
+      "position": 184
+    },
+    {
+      "char": "衰",
+      "label": "I-SYM",
+      "position": 185
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 186
+    },
+    {
+      "char": "即",
+      "label": "O",
+      "position": 187
+    },
+    {
+      "char": "取",
+      "label": "B-TRE",
+      "position": 188
+    },
+    {
+      "char": "之",
+      "label": "I-TRE",
+      "position": 189
+    },
+    {
+      "char": "。",
+      "label": "O",
+      "position": 190
+    },
+    {
+      "char": "足",
+      "label": "B-DIS",
+      "position": 193
+    },
+    {
+      "char": "少",
+      "label": "I-DIS",
+      "position": 194
+    },
+    {
+      "char": "阴",
+      "label": "I-DIS",
+      "position": 195
+    },
+    {
+      "char": "之",
+      "label": "I-DIS",
+      "position": 196
+    },
+    {
+      "char": "疟",
+      "label": "I-DIS",
+      "position": 197
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 198
+    },
+    {
+      "char": "令",
+      "label": "O",
+      "position": 199
+    },
+    {
+      "char": "人",
+      "label": "O",
+      "position": 200
+    },
+    {
+      "char": "呕",
+      "label": "B-SYM",
+      "position": 201
+    },
+    {
+      "char": "吐",
+      "label": "I-SYM",
+      "position": 202
+    },
+    {
+      "char": "甚",
+      "label": "I-SYM",
+      "position": 203
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 204
+    },
+    {
+      "char": "多",
+      "label": "B-SYM",
+      "position": 205
+    },
+    {
+      "char": "寒",
+      "label": "I-SYM",
+      "position": 206
+    },
+    {
+      "char": "热",
+      "label": "I-SYM",
+      "position": 207
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 208
+    },
+    {
+      "char": "热",
+      "label": "B-SYM",
+      "position": 209
+    },
+    {
+      "char": "多",
+      "label": "I-SYM",
+      "position": 210
+    },
+    {
+      "char": "寒",
+      "label": "I-SYM",
+      "position": 211
+    },
+    {
+      "char": "少",
+      "label": "I-SYM",
+      "position": 212
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 213
+    },
+    {
+      "char": "欲",
+      "label": "B-SYM",
+      "position": 214
+    },
+    {
+      "char": "闭",
+      "label": "I-SYM",
+      "position": 215
+    },
+    {
+      "char": "户",
+      "label": "I-SYM",
+      "position": 216
+    },
+    {
+      "char": "牖",
+      "label": "I-SYM",
+      "position": 217
+    },
+    {
+      "char": "而",
+      "label": "I-SYM",
+      "position": 218
+    },
+    {
+      "char": "处",
+      "label": "I-SYM",
+      "position": 219
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 220
+    },
+    {
+      "char": "其",
+      "label": "B-SYM",
+      "position": 221
+    },
+    {
+      "char": "病",
+      "label": "I-SYM",
+      "position": 222
+    },
+    {
+      "char": "难",
+      "label": "I-SYM",
+      "position": 223
+    },
+    {
+      "char": "已",
+      "label": "I-SYM",
+      "position": 224
+    },
+    {
+      "char": "。",
+      "label": "O",
+      "position": 225
+    },
+    {
+      "char": "足",
+      "label": "B-DIS",
+      "position": 228
+    },
+    {
+      "char": "厥",
+      "label": "I-DIS",
+      "position": 229
+    },
+    {
+      "char": "阴",
+      "label": "I-DIS",
+      "position": 230
+    },
+    {
+      "char": "之",
+      "label": "I-DIS",
+      "position": 231
+    },
+    {
+      "char": "疟",
+      "label": "I-DIS",
+      "position": 232
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 233
+    },
+    {
+      "char": "令",
+      "label": "O",
+      "position": 234
+    },
+    {
+      "char": "人",
+      "label": "O",
+      "position": 235
+    },
+    {
+      "char": "腰",
+      "label": "B-SYM",
+      "position": 236
+    },
+    {
+      "char": "痛",
+      "label": "I-SYM",
+      "position": 237
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 238
+    },
+    {
+      "char": "少",
+      "label": "B-SYM",
+      "position": 239
+    },
+    {
+      "char": "腹",
+      "label": "I-SYM",
+      "position": 240
+    },
+    {
+      "char": "满",
+      "label": "I-SYM",
+      "position": 241
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 242
+    },
+    {
+      "char": "小",
+      "label": "B-SYM",
+      "position": 243
+    },
+    {
+      "char": "便",
+      "label": "I-SYM",
+      "position": 244
+    },
+    {
+      "char": "不",
+      "label": "I-SYM",
+      "position": 245
+    },
+    {
+      "char": "利",
+      "label": "I-SYM",
+      "position": 246
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 247
+    },
+    {
+      "char": "如",
+      "label": "B-SYM",
+      "position": 248
+    },
+    {
+      "char": "癃",
+      "label": "I-SYM",
+      "position": 249
+    },
+    {
+      "char": "状",
+      "label": "I-SYM",
+      "position": 250
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 251
+    },
+    {
+      "char": "非",
+      "label": "B-SYM",
+      "position": 252
+    },
+    {
+      "char": "癃",
+      "label": "I-SYM",
+      "position": 253
+    },
+    {
+      "char": "也",
+      "label": "I-SYM",
+      "position": 254
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 255
+    },
+    {
+      "char": "数",
+      "label": "B-SYM",
+      "position": 256
+    },
+    {
+      "char": "便",
+      "label": "I-SYM",
+      "position": 257
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 258
+    },
+    {
+      "char": "意",
+      "label": "B-SYM",
+      "position": 259
+    },
+    {
+      "char": "恐",
+      "label": "I-SYM",
+      "position": 260
+    },
+    {
+      "char": "惧",
+      "label": "I-SYM",
+      "position": 261
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 262
+    },
+    {
+      "char": "气",
+      "label": "B-SYM",
+      "position": 263
+    },
+    {
+      "char": "不",
+      "label": "I-SYM",
+      "position": 264
+    },
+    {
+      "char": "足",
+      "label": "I-SYM",
+      "position": 265
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 266
+    },
+    {
+      "char": "腹",
+      "label": "B-SYM",
+      "position": 267
+    },
+    {
+      "char": "中",
+      "label": "I-SYM",
+      "position": 268
+    },
+    {
+      "char": "悒",
+      "label": "I-SYM",
+      "position": 269
+    },
+    {
+      "char": "悒",
+      "label": "I-SYM",
+      "position": 270
+    },
+    {
+      "char": "，",
+      "label": "O",
+      "position": 271
+    },
+    {
+      "char": "刺",
+      "label": "B-TRE",
+      "position": 272
+    },
+    {
+      "char": "足",
+      "label": "I-TRE",
+      "position": 273
+    },
+    {
+      "char": "厥",
+      "label": "I-TRE",
+      "position": 274
+    },
+    {
+      "char": "阴",
+      "label": "I-TRE",
+      "position": 275
+    },
+    {
+      "char": "。",
+      "label": "O",
+      "position": 276
+    }
+  ],
+  "statistics": {
+    "total_chars": 277,
+    "total_entities": 54,
+    "entity_types": {
+      "病名": 6,
+      "症状": 37,
+      "穴位": 4,
+      "治法": 7
+    }
+  }
+}

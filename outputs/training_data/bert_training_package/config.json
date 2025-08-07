@@ -1,0 +1,38 @@
+{
+  "entity_types": {
+    "病名": "DIS",
+    "症状": "SYM",
+    "穴位": "ACU",
+    "治法": "TRE"
+  },
+  "label_map": {
+    "B-ACU": 0,
+    "B-DIS": 1,
+    "B-SYM": 2,
+    "B-TRE": 3,
+    "I-ACU": 4,
+    "I-DIS": 5,
+    "I-SYM": 6,
+    "I-TRE": 7,
+    "O": 8
+  },
+  "max_length": 392,
+  "num_labels": 9,
+  "dataset_info": {
+    "total_documents": 2,
+    "train_documents": 1,
+    "val_documents": 0,
+    "test_documents": 1,
+    "entity_statistics": {
+      "B-TRE": 7,
+      "O": 169,
+      "B-DIS": 5,
+      "I-DIS": 10,
+      "B-SYM": 61,
+      "I-SYM": 111,
+      "B-ACU": 10,
+      "I-ACU": 15,
+      "I-TRE": 4
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "sentences": [],
+  "labels": [],
+  "max_length": 0,
+  "label_map": {
+    "O": 0
+  },
+  "statistics": {}
+}

@@ -1,0 +1,363 @@
+{
+  "instructions": "\n🔍 针灸大成实体抽取 - 人工审核任务\n\n请对以下争议实体进行审核：\n\n📋 审核说明：\n1. 仔细阅读上下文，理解实体在原文中的含义\n2. 参考各模型的判断，但以您的专业知识为准\n3. 优先处理\"高优先级\"任务（类型冲突）\n\n✅ 审核选项：\n- 病名：疾病名称（如：肝热病、心热病）\n- 症状：症状表现（如：腹痛、头痛、小便先黄）\n- 穴位：经络穴位（如：足厥阴、手少阴、百会）\n- 治法：治疗方法（如：刺、灸、补、泻）\n- 无效：不是有效实体\n            ",
+  "total_tasks": 12,
+  "new_tasks_count": 10,
+  "tasks": [
+    {
+      "task_id": "test_001",
+      "doc_name": "01 刺热论",
+      "entity_text": "刺足厥阴补足太阴",
+      "priority": "high",
+      "question": "实体\"刺足厥阴补足太阴\"的类型是什么？",
+      "context": {
+        "highlighted": "肝热病者，小便先黄，腹痛多卧，身热。【刺足厥阴补足太阴】，治疗肝热病的方法。此法能清肝热，调气血，使病者得以康复。"
+      },
+      "models_opinion": {
+        "doubao": {
+          "type": "治法",
+          "confidence": 0.8
+        },
+        "deepseek": {
+          "type": "穴位",
+          "confidence": 0.7
+        },
+        "tongyi": {
+          "type": "治法",
+          "confidence": 0.6
+        }
+      },
+      "human_decision": {
+        "selected_option": "",
+        "timestamp": ""
+      }
+    },
+    {
+      "task_id": "test_002",
+      "doc_name": "01 刺热论",
+      "entity_text": "小便先黄",
+      "priority": "medium",
+      "question": "实体\"小便先黄\"的类型是什么？",
+      "context": {
+        "highlighted": "春三月，此谓发陈，天地俱生，万物以荣。肝热病者，【小便先黄】，腹痛多卧，身热。刺足厥阴补足太阴，治疗肝热病的方法。"
+      },
+      "models_opinion": {
+        "doubao": {
+          "type": "症状",
+          "confidence": 0.9
+        },
+        "deepseek": {
+          "type": "症状",
+          "confidence": 0.8
+        },
+        "tongyi": {
+          "type": "病名",
+          "confidence": 0.5
+        }
+      },
+      "human_decision": {
+        "selected_option": "",
+        "timestamp": ""
+      }
+    },
+    {
+      "id": 3,
+      "doc_name": "03 刺疟论",
+      "entity_text": "腰痛头重",
+      "priority": "medium",
+      "reason": "single_model",
+      "question": "实体\"腰痛头重\"（仅被doubao识别）是否有效？",
+      "context": {
+        "highlighted": "黄帝问曰：刺疟奈何？岐伯对曰：足太阳之疟，令人【腰痛头重】，寒从背起，先寒后热，然，热止汗出难已，刺中出血。\n\n足少阳之疟，令人身体解，寒不甚，热不甚，恶见人，见人心惕惕然，热多汗出甚，刺足少阳。",
+        "full_sentence": "岐伯对曰：足太阳之疟，令人腰痛头重，寒从背起，先寒后热，然，热止汗出难已，刺中出血。"
+      },
+      "models_opinion": {
+        "doubao": "症状",
+        "deepseek": "未识别",
+        "tongyi": "未识别"
+      },
+      "options": [
+        "病名",
+        "症状",
+        "穴位",
+        "治法",
+        "无效"
+      ],
+      "human_decision": {
+        "selected_option": "",
+        "notes": "",
+        "reviewer": "",
+        "timestamp": ""
+      }
+    },
+    {
+      "id": 4,
+      "doc_name": "03 刺疟论",
+      "entity_text": "刺",
+      "priority": "medium",
+      "reason": "single_model",
+      "question": "实体\"刺\"（仅被doubao识别）是否有效？",
+      "context": {
+        "highlighted": "【刺】疟论\n\n黄帝问曰：【刺】疟奈何？",
+        "full_sentence": "刺疟论"
+      },
+      "models_opinion": {
+        "doubao": "治法",
+        "deepseek": "未识别",
+        "tongyi": "未识别"
+      },
+      "options": [
+        "病名",
+        "症状",
+        "穴位",
+        "治法",
+        "无效"
+      ],
+      "human_decision": {
+        "selected_option": "",
+        "notes": "",
+        "reviewer": "",
+        "timestamp": ""
+      }
+    },
+    {
+      "id": 5,
+      "doc_name": "03 刺疟论",
+      "entity_text": "出血",
+      "priority": "medium",
+      "reason": "single_model",
+      "question": "实体\"出血\"（仅被doubao识别）是否有效？",
+      "context": {
+        "highlighted": "黄帝问曰：刺疟奈何？岐伯对曰：足太阳之疟，令人腰痛头重，寒从背起，先寒后热，然，热止汗出难已，刺中【出血】。\n\n足少阳之疟，令人身体解，寒不甚，热不甚，恶见人，见人心惕惕然，热多汗出甚，刺足少阳。",
+        "full_sentence": "岐伯对曰：足太阳之疟，令人腰痛头重，寒从背起，先寒后热，然，热止汗出难已，刺中出血。"
+      },
+      "models_opinion": {
+        "doubao": "治法",
+        "deepseek": "未识别",
+        "tongyi": "未识别"
+      },
+      "options": [
+        "病名",
+        "症状",
+        "穴位",
+        "治法",
+        "无效"
+      ],
+      "human_decision": {
+        "selected_option": "",
+        "notes": "",
+        "reviewer": "",
+        "timestamp": ""
+      }
+    },
+    {
+      "id": 6,
+      "doc_name": "03 刺疟论",
+      "entity_text": "跗上",
+      "priority": "medium",
+      "reason": "single_model",
+      "question": "实体\"跗上\"（仅被doubao识别）是否有效？",
+      "context": {
+        "highlighted": "足少阳之疟，令人身体解，寒不甚，热不甚，恶见人，见人心惕惕然，热多汗出甚，刺足少阳。\n\n足阳明之疟，令人先寒，洒淅洒淅，寒甚久乃热，热去汗出，喜见日月光火气，乃快然，刺足阳明【跗上】。\n\n足太阴之疟，令人不乐，好太息，不嗜食，多寒热汗出，病至则善呕，呕已乃衰，即取之。",
+        "full_sentence": "足阳明之疟，令人先寒，洒淅洒淅，寒甚久乃热，热去汗出，喜见日月光火气，乃快然，刺足阳明跗上。"
+      },
+      "models_opinion": {
+        "doubao": "穴位",
+        "deepseek": "未识别",
+        "tongyi": "未识别"
+      },
+      "options": [
+        "病名",
+        "症状",
+        "穴位",
+        "治法",
+        "无效"
+      ],
+      "human_decision": {
+        "selected_option": "",
+        "notes": "",
+        "reviewer": "",
+        "timestamp": ""
+      }
+    },
+    {
+      "id": 7,
+      "doc_name": "03 刺疟论",
+      "entity_text": "取之",
+      "priority": "medium",
+      "reason": "single_model",
+      "question": "实体\"取之\"（仅被doubao识别）是否有效？",
+      "context": {
+        "highlighted": "足阳明之疟，令人先寒，洒淅洒淅，寒甚久乃热，热去汗出，喜见日月光火气，乃快然，刺足阳明跗上。\n\n足太阴之疟，令人不乐，好太息，不嗜食，多寒热汗出，病至则善呕，呕已乃衰，即【取之】。\n\n足少阴之疟，令人呕吐甚，多寒热，热多寒少，欲闭户牖而处，其病难已。",
+        "full_sentence": "足太阴之疟，令人不乐，好太息，不嗜食，多寒热汗出，病至则善呕，呕已乃衰，即取之。"
+      },
+      "models_opinion": {
+        "doubao": "治法",
+        "deepseek": "未识别",
+        "tongyi": "未识别"
+      },
+      "options": [
+        "病名",
+        "症状",
+        "穴位",
+        "治法",
+        "无效"
+      ],
+      "human_decision": {
+        "selected_option": "",
+        "notes": "",
+        "reviewer": "",
+        "timestamp": ""
+      }
+    },
+    {
+      "id": 8,
+      "doc_name": "03 刺疟论",
+      "entity_text": "腰痛",
+      "priority": "medium",
+      "reason": "single_model",
+      "question": "实体\"腰痛\"（仅被doubao识别）是否有效？",
+      "context": {
+        "highlighted": "黄帝问曰：刺疟奈何？岐伯对曰：足太阳之疟，令人【腰痛】头重，寒从背起，先寒后热，然，热止汗出难已，刺中出血。\n\n足少阳之疟，令人身体解，寒不甚，热不甚，恶见人，见人心惕惕然，热多汗出甚，刺足少阳。",
+        "full_sentence": "岐伯对曰：足太阳之疟，令人腰痛头重，寒从背起，先寒后热，然，热止汗出难已，刺中出血。"
+      },
+      "models_opinion": {
+        "doubao": "症状",
+        "deepseek": "未识别",
+        "tongyi": "未识别"
+      },
+      "options": [
+        "病名",
+        "症状",
+        "穴位",
+        "治法",
+        "无效"
+      ],
+      "human_decision": {
+        "selected_option": "",
+        "notes": "",
+        "reviewer": "",
+        "timestamp": ""
+      }
+    },
+    {
+      "id": 9,
+      "doc_name": "03 刺疟论",
+      "entity_text": "即取之",
+      "priority": "medium",
+      "reason": "single_model",
+      "question": "实体\"即取之\"（仅被deepseek识别）是否有效？",
+      "context": {
+        "highlighted": "足阳明之疟，令人先寒，洒淅洒淅，寒甚久乃热，热去汗出，喜见日月光火气，乃快然，刺足阳明跗上。\n\n足太阴之疟，令人不乐，好太息，不嗜食，多寒热汗出，病至则善呕，呕已乃衰，【即取之】。\n\n足少阴之疟，令人呕吐甚，多寒热，热多寒少，欲闭户牖而处，其病难已。",
+        "full_sentence": "足太阴之疟，令人不乐，好太息，不嗜食，多寒热汗出，病至则善呕，呕已乃衰，即取之。"
+      },
+      "models_opinion": {
+        "doubao": "未识别",
+        "deepseek": "治法",
+        "tongyi": "未识别"
+      },
+      "options": [
+        "病名",
+        "症状",
+        "穴位",
+        "治法",
+        "无效"
+      ],
+      "human_decision": {
+        "selected_option": "",
+        "notes": "",
+        "reviewer": "",
+        "timestamp": ""
+      }
+    },
+    {
+      "id": 10,
+      "doc_name": "03 刺疟论",
+      "entity_text": "疟",
+      "priority": "medium",
+      "reason": "single_model",
+      "question": "实体\"疟\"（仅被tongyi识别）是否有效？",
+      "context": {
+        "highlighted": "刺【疟】论\n\n黄帝问曰：刺【疟】奈何？",
+        "full_sentence": "刺疟论"
+      },
+      "models_opinion": {
+        "doubao": "未识别",
+        "deepseek": "未识别",
+        "tongyi": "病名"
+      },
+      "options": [
+        "病名",
+        "症状",
+        "穴位",
+        "治法",
+        "无效"
+      ],
+      "human_decision": {
+        "selected_option": "",
+        "notes": "",
+        "reviewer": "",
+        "timestamp": ""
+      }
+    },
+    {
+      "id": 11,
+      "doc_name": "03 刺疟论",
+      "entity_text": "然",
+      "priority": "medium",
+      "reason": "single_model",
+      "question": "实体\"然\"（仅被tongyi识别）是否有效？",
+      "context": {
+        "highlighted": "黄帝问曰：刺疟奈何？岐伯对曰：足太阳之疟，令人腰痛头重，寒从背起，先寒后热，【然】，热止汗出难已，刺中出血。\n\n足少阳之疟，令人身体解，寒不甚，热不甚，恶见人，见人心惕惕【然】，热多汗出甚，刺足少阳。",
+        "full_sentence": "岐伯对曰：足太阳之疟，令人腰痛头重，寒从背起，先寒后热，然，热止汗出难已，刺中出血。"
+      },
+      "models_opinion": {
+        "doubao": "未识别",
+        "deepseek": "未识别",
+        "tongyi": "症状"
+      },
+      "options": [
+        "病名",
+        "症状",
+        "穴位",
+        "治法",
+        "无效"
+      ],
+      "human_decision": {
+        "selected_option": "",
+        "notes": "",
+        "reviewer": "",
+        "timestamp": ""
+      }
+    },
+    {
+      "id": 12,
+      "doc_name": "03 刺疟论",
+      "entity_text": "足太阳",
+      "priority": "medium",
+      "reason": "single_model",
+      "question": "实体\"足太阳\"（仅被tongyi识别）是否有效？",
+      "context": {
+        "highlighted": "黄帝问曰：刺疟奈何？岐伯对曰：【足太阳】之疟，令人腰痛头重，寒从背起，先寒后热，然，热止汗出难已，刺中出血。\n\n足少阳之疟，令人身体解，寒不甚，热不甚，恶见人，见人心惕惕然，热多汗出甚，刺足少阳。",
+        "full_sentence": "岐伯对曰：足太阳之疟，令人腰痛头重，寒从背起，先寒后热，然，热止汗出难已，刺中出血。"
+      },
+      "models_opinion": {
+        "doubao": "未识别",
+        "deepseek": "未识别",
+        "tongyi": "穴位"
+      },
+      "options": [
+        "病名",
+        "症状",
+        "穴位",
+        "治法",
+        "无效"
+      ],
+      "human_decision": {
+        "selected_option": "",
+        "notes": "",
+        "reviewer": "",
+        "timestamp": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,3236 @@
+{
+  "doc_name": "01 刺热论",
+  "timestamp": "20250807_112720",
+  "model_results": {
+    "doubao": {
+      "success": true,
+      "entities": [
+        {
+          "text": "肝热病",
+          "type": "病名",
+          "start_pos": 21,
+          "end_pos": 24
+        },
+        {
+          "text": "小便先黄",
+          "type": "症状",
+          "start_pos": 26,
+          "end_pos": 30
+        },
+        {
+          "text": "腹痛",
+          "type": "症状",
+          "start_pos": 31,
+          "end_pos": 33
+        },
+        {
+          "text": "多卧",
+          "type": "症状",
+          "start_pos": 34,
+          "end_pos": 36
+        },
+        {
+          "text": "身热",
+          "type": "症状",
+          "start_pos": 37,
+          "end_pos": 39
+        },
+        {
+          "text": "狂言",
+          "type": "症状",
+          "start_pos": 43,
+          "end_pos": 45
+        },
+        {
+          "text": "惊",
+          "type": "症状",
+          "start_pos": 46,
+          "end_pos": 47
+        },
+        {
+          "text": "胁满痛",
+          "type": "症状",
+          "start_pos": 48,
+          "end_pos": 51
+        },
+        {
+          "text": "手足躁",
+          "type": "症状",
+          "start_pos": 52,
+          "end_pos": 55
+        },
+        {
+          "text": "不得安卧",
+          "type": "症状",
+          "start_pos": 56,
+          "end_pos": 60
+        },
+        {
+          "text": "头痛员员",
+          "type": "症状",
+          "start_pos": 88,
+          "end_pos": 92
+        },
+        {
+          "text": "脉引冲头",
+          "type": "症状",
+          "start_pos": 93,
+          "end_pos": 97
+        },
+        {
+          "text": "足厥阴",
+          "type": "穴位",
+          "start_pos": 78,
+          "end_pos": 81
+        },
+        {
+          "text": "少阳",
+          "type": "穴位",
+          "start_pos": 82,
+          "end_pos": 84
+        },
+        {
+          "text": "刺",
+          "type": "治法",
+          "start_pos": 77,
+          "end_pos": 78
+        },
+        {
+          "text": "心热病",
+          "type": "病名",
+          "start_pos": 100,
+          "end_pos": 103
+        },
+        {
+          "text": "先不乐",
+          "type": "症状",
+          "start_pos": 105,
+          "end_pos": 108
+        },
+        {
+          "text": "热",
+          "type": "症状",
+          "start_pos": 112,
+          "end_pos": 113
+        },
+        {
+          "text": "卒心痛",
+          "type": "症状",
+          "start_pos": 117,
+          "end_pos": 120
+        },
+        {
+          "text": "烦闷",
+          "type": "症状",
+          "start_pos": 121,
+          "end_pos": 123
+        },
+        {
+          "text": "善呕",
+          "type": "症状",
+          "start_pos": 123,
+          "end_pos": 125
+        },
+        {
+          "text": "头痛",
+          "type": "症状",
+          "start_pos": 126,
+          "end_pos": 128
+        },
+        {
+          "text": "面赤",
+          "type": "症状",
+          "start_pos": 128,
+          "end_pos": 130
+        },
+        {
+          "text": "无汗",
+          "type": "症状",
+          "start_pos": 130,
+          "end_pos": 132
+        },
+        {
+          "text": "手少阴",
+          "type": "穴位",
+          "start_pos": 142,
+          "end_pos": 145
+        },
+        {
+          "text": "太阳",
+          "type": "穴位",
+          "start_pos": 146,
+          "end_pos": 148
+        },
+        {
+          "text": "刺",
+          "type": "治法",
+          "start_pos": 141,
+          "end_pos": 142
+        },
+        {
+          "text": "脾热病",
+          "type": "病名",
+          "start_pos": 150,
+          "end_pos": 153
+        },
+        {
+          "text": "头重",
+          "type": "症状",
+          "start_pos": 155,
+          "end_pos": 157
+        },
+        {
+          "text": "颊痛",
+          "type": "症状",
+          "start_pos": 158,
+          "end_pos": 160
+        },
+        {
+          "text": "烦心",
+          "type": "症状",
+          "start_pos": 161,
+          "end_pos": 163
+        },
+        {
+          "text": "颜青欲呕",
+          "type": "症状",
+          "start_pos": 164,
+          "end_pos": 168
+        },
+        {
+          "text": "身热",
+          "type": "症状",
+          "start_pos": 169,
+          "end_pos": 171
+        },
+        {
+          "text": "腰痛",
+          "type": "症状",
+          "start_pos": 175,
+          "end_pos": 177
+        },
+        {
+          "text": "不可用俯仰",
+          "type": "症状",
+          "start_pos": 178,
+          "end_pos": 183
+        },
+        {
+          "text": "腹满泄",
+          "type": "症状",
+          "start_pos": 184,
+          "end_pos": 187
+        },
+        {
+          "text": "两颔痛",
+          "type": "症状",
+          "start_pos": 188,
+          "end_pos": 191
+        },
+        {
+          "text": "足太阴",
+          "type": "穴位",
+          "start_pos": 199,
+          "end_pos": 202
+        },
+        {
+          "text": "阳明",
+          "type": "穴位",
+          "start_pos": 203,
+          "end_pos": 205
+        },
+        {
+          "text": "刺",
+          "type": "治法",
+          "start_pos": 198,
+          "end_pos": 199
+        },
+        {
+          "text": "肺热病",
+          "type": "病名",
+          "start_pos": 207,
+          "end_pos": 210
+        },
+        {
+          "text": "淅然厥",
+          "type": "症状",
+          "start_pos": 212,
+          "end_pos": 215
+        },
+        {
+          "text": "起毫毛",
+          "type": "症状",
+          "start_pos": 216,
+          "end_pos": 219
+        },
+        {
+          "text": "恶风寒",
+          "type": "症状",
+          "start_pos": 220,
+          "end_pos": 223
+        },
+        {
+          "text": "舌上黄",
+          "type": "症状",
+          "start_pos": 224,
+          "end_pos": 227
+        },
+        {
+          "text": "身热",
+          "type": "症状",
+          "start_pos": 228,
+          "end_pos": 230
+        },
+        {
+          "text": "喘咳",
+          "type": "症状",
+          "start_pos": 234,
+          "end_pos": 236
+        },
+        {
+          "text": "痛走胸膺背",
+          "type": "症状",
+          "start_pos": 237,
+          "end_pos": 242
+        },
+        {
+          "text": "不得太息",
+          "type": "症状",
+          "start_pos": 243,
+          "end_pos": 247
+        },
+        {
+          "text": "头痛不堪",
+          "type": "症状",
+          "start_pos": 248,
+          "end_pos": 252
+        },
+        {
+          "text": "汗出而寒",
+          "type": "症状",
+          "start_pos": 253,
+          "end_pos": 257
+        },
+        {
+          "text": "手太阴",
+          "type": "穴位",
+          "start_pos": 265,
+          "end_pos": 268
+        },
+        {
+          "text": "阳明",
+          "type": "穴位",
+          "start_pos": 269,
+          "end_pos": 271
+        },
+        {
+          "text": "刺",
+          "type": "治法",
+          "start_pos": 264,
+          "end_pos": 265
+        },
+        {
+          "text": "出血",
+          "type": "治法",
+          "start_pos": 272,
+          "end_pos": 274
+        },
+        {
+          "text": "肾热病",
+          "type": "病名",
+          "start_pos": 280,
+          "end_pos": 283
+        },
+        {
+          "text": "腰痛酸",
+          "type": "症状",
+          "start_pos": 285,
+          "end_pos": 288
+        },
+        {
+          "text": "苦渴数饮",
+          "type": "症状",
+          "start_pos": 289,
+          "end_pos": 293
+        },
+        {
+          "text": "身热",
+          "type": "症状",
+          "start_pos": 294,
+          "end_pos": 296
+        },
+        {
+          "text": "项痛而强",
+          "type": "症状",
+          "start_pos": 300,
+          "end_pos": 304
+        },
+        {
+          "text": "寒且酸",
+          "type": "症状",
+          "start_pos": 305,
+          "end_pos": 308
+        },
+        {
+          "text": "足下热",
+          "type": "症状",
+          "start_pos": 309,
+          "end_pos": 312
+        },
+        {
+          "text": "不欲言",
+          "type": "症状",
+          "start_pos": 313,
+          "end_pos": 316
+        },
+        {
+          "text": "项痛员员澹澹然",
+          "type": "症状",
+          "start_pos": 320,
+          "end_pos": 327
+        },
+        {
+          "text": "足少阴",
+          "type": "穴位",
+          "start_pos": 335,
+          "end_pos": 338
+        },
+        {
+          "text": "太阳",
+          "type": "穴位",
+          "start_pos": 339,
+          "end_pos": 341
+        },
+        {
+          "text": "刺",
+          "type": "治法",
+          "start_pos": 334,
+          "end_pos": 335
+        }
+      ],
+      "processing_time": 220.18378353118896,
+      "text_length": 402,
+      "entity_count": 67,
+      "doc_title": "01 刺热论",
+      "raw_response": "{\n    \"entities\": [\n        {\"text\": \"肝热病\", \"type\": \"病名\", \"start_pos\": 21, \"end_pos\": 24},\n        {\"text\": \"小便先黄\", \"type\": \"症状\", \"start_pos\": 26, \"end_pos\": 30},\n        {\"text\": \"腹痛\", \"type\": \"症状\", \"start_pos\": 31, \"end_pos\": 33},\n        {\"text\": \"多卧\", \"type\": \"症状\", \"start_pos\": 34, \"end_pos\": 36},\n        {\"text\": \"身热\", \"type\": \"症状\", \"start_pos\": 37, \"end_pos\": 39},\n        {\"text\": \"狂言\", \"type\": \"症状\", \"start_pos\": 43, \"end_pos\": 45},\n        {\"text\": \"惊\", \"type\": \"症状\", \"start_pos\": 46, \"end_pos\": 47},\n        {\"text\": \"胁满痛\", \"type\": \"症状\", \"start_pos\": 48, \"end_pos\": 51},\n        {\"text\": \"手足躁\", \"type\": \"症状\", \"start_pos\": 52, \"end_pos\": 55},\n        {\"text\": \"不得安卧\", \"type\": \"症状\", \"start_pos\": 56, \"end_pos\": 60},\n        {\"text\": \"头痛员员\", \"type\": \"症状\", \"start_pos\": 88, \"end_pos\": 92},\n        {\"text\": \"脉引冲头\", \"type\": \"症状\", \"start_pos\": 93, \"end_pos\": 97},\n        {\"text\": \"足厥阴\", \"type\": \"穴位\", \"start_pos\": 78, \"end_pos\": 81},\n        {\"text\": \"少阳\", \"type\": \"穴位\", \"start_pos\": 82, \"end_pos\": 84},\n        {\"text\": \"刺\", \"type\": \"治法\", \"start_pos\": 77, \"end_pos\": 78},\n        {\"text\": \"心热病\", \"type\": \"病名\", \"start_pos\": 100, \"end_pos\": 103},\n        {\"text\": \"先不乐\", \"type\": \"症状\", \"start_pos\": 105, \"end_pos\": 108},\n        {\"text\": \"热\", \"type\": \"症状\", \"start_pos\": 112, \"end_pos\": 113},\n        {\"text\": \"卒心痛\", \"type\": \"症状\", \"start_pos\": 117, \"end_pos\": 120},\n        {\"text\": \"烦闷\", \"type\": \"症状\", \"start_pos\": 121, \"end_pos\": 123},\n        {\"text\": \"善呕\", \"type\": \"症状\", \"start_pos\": 123, \"end_pos\": 125},\n        {\"text\": \"头痛\", \"type\": \"症状\", \"start_pos\": 126, \"end_pos\": 128},\n        {\"text\": \"面赤\", \"type\": \"症状\", \"start_pos\": 128, \"end_pos\": 130},\n        {\"text\": \"无汗\", \"type\": \"症状\", \"start_pos\": 130, \"end_pos\": 132},\n        {\"text\": \"手少阴\", \"type\": \"穴位\", \"start_pos\": 142, \"end_pos\": 145},\n        {\"text\": \"太阳\", \"type\": \"穴位\", \"start_pos\": 146, \"end_pos\": 148},\n        {\"text\": \"刺\", \"type\": \"治法\", \"start_pos\": 141, \"end_pos\": 142},\n        {\"text\": \"脾热病\", \"type\": \"病名\", \"start_pos\": 150, \"end_pos\": 153},\n        {\"text\": \"头重\", \"type\": \"症状\", \"start_pos\": 155, \"end_pos\": 157},\n        {\"text\": \"颊痛\", \"type\": \"症状\", \"start_pos\": 158, \"end_pos\": 160},\n        {\"text\": \"烦心\", \"type\": \"症状\", \"start_pos\": 161, \"end_pos\": 163},\n        {\"text\": \"颜青欲呕\", \"type\": \"症状\", \"start_pos\": 164, \"end_pos\": 168},\n        {\"text\": \"身热\", \"type\": \"症状\", \"start_pos\": 169, \"end_pos\": 171},\n        {\"text\": \"腰痛\", \"type\": \"症状\", \"start_pos\": 175, \"end_pos\": 177},\n        {\"text\": \"不可用俯仰\", \"type\": \"症状\", \"start_pos\": 178, \"end_pos\": 183},\n        {\"text\": \"腹满泄\", \"type\": \"症状\", \"start_pos\": 184, \"end_pos\": 187},\n        {\"text\": \"两颔痛\", \"type\": \"症状\", \"start_pos\": 188, \"end_pos\": 191},\n        {\"text\": \"足太阴\", \"type\": \"穴位\", \"start_pos\": 199, \"end_pos\": 202},\n        {\"text\": \"阳明\", \"type\": \"穴位\", \"start_pos\": 203, \"end_pos\": 205},\n        {\"text\": \"刺\", \"type\": \"治法\", \"start_pos\": 198, \"end_pos\": 199},\n        {\"text\": \"肺热病\", \"type\": \"病名\", \"start_pos\": 207, \"end_pos\": 210},\n        {\"text\": \"淅然厥\", \"type\": \"症状\", \"start_pos\": 212, \"end_pos\": 215},\n        {\"text\": \"起毫毛\", \"type\": \"症状\", \"start_pos\": 216, \"end_pos\": 219},\n        {\"text\": \"恶风寒\", \"type\": \"症状\", \"start_pos\": 220, \"end_pos\": 223},\n        {\"text\": \"舌上黄\", \"type\": \"症状\", \"start_pos\": 224, \"end_pos\": 227},\n        {\"text\": \"身热\", \"type\": \"症状\", \"start_pos\": 228, \"end_pos\": 230},\n        {\"text\": \"喘咳\", \"type\": \"症状\", \"start_pos\": 234, \"end_pos\": 236},\n        {\"text\": \"痛走胸膺背\", \"type\": \"症状\", \"start_pos\": 237, \"end_pos\": 242},\n        {\"text\": \"不得太息\", \"type\": \"症状\", \"start_pos\": 243, \"end_pos\": 247},\n        {\"text\": \"头痛不堪\", \"type\": \"症状\", \"start_pos\": 248, \"end_pos\": 252},\n        {\"text\": \"汗出而寒\", \"type\": \"症状\", \"start_pos\": 253, \"end_pos\": 257},\n        {\"text\": \"手太阴\", \"type\": \"穴位\", \"start_pos\": 265, \"end_pos\": 268},\n        {\"text\": \"阳明\", \"type\": \"穴位\", \"start_pos\": 269, \"end_pos\": 271},\n        {\"text\": \"刺\", \"type\": \"治法\", \"start_pos\": 264, \"end_pos\": 265},\n        {\"text\": \"出血\", \"type\": \"治法\", \"start_pos\": 272, \"end_pos\": 274},\n        {\"text\": \"肾热病\", \"type\": \"病名\", \"start_pos\": 280, \"end_pos\": 283},\n        {\"text\": \"腰痛酸\", \"type\": \"症状\", \"start_pos\": 285, \"end_pos\": 288},\n        {\"text\": \"苦渴数饮\", \"type\": \"症状\", \"start_pos\": 289, \"end_pos\": 293},\n        {\"text\": \"身热\", \"type\": \"症状\", \"start_pos\": 294, \"end_pos\": 296},\n        {\"text\": \"项痛而强\", \"type\": \"症状\", \"start_pos\": 300, \"end_pos\": 304},\n        {\"text\": \"寒且酸\", \"type\": \"症状\", \"start_pos\": 305, \"end_pos\": 308},\n        {\"text\": \"足下热\", \"type\": \"症状\", \"start_pos\": 309, \"end_pos\": 312},\n        {\"text\": \"不欲言\", \"type\": \"症状\", \"start_pos\": 313, \"end_pos\": 316},\n        {\"text\": \"项痛员员澹澹然\", \"type\": \"症状\", \"start_pos\": 320, \"end_pos\": 327},\n        {\"text\": \"足少阴\", \"type\": \"穴位\", \"start_pos\": 335, \"end_pos\": 338},\n        {\"text\": \"太阳\", \"type\": \"穴位\", \"start_pos\": 339, \"end_pos\": 341},\n        {\"text\": \"刺\", \"type\": \"治法\", \"start_pos\": 334, \"end_pos\": 335}\n    ]\n}"
+    },
+    "deepseek": {
+      "success": true,
+      "entities": [
+        {
+          "text": "肝热病",
+          "type": "病名",
+          "start_pos": 0,
+          "end_pos": 3
+        },
+        {
+          "text": "小便先黄",
+          "type": "症状",
+          "start_pos": 4,
+          "end_pos": 8
+        },
+        {
+          "text": "腹痛",
+          "type": "症状",
+          "start_pos": 9,
+          "end_pos": 11
+        },
+        {
+          "text": "多卧",
+          "type": "症状",
+          "start_pos": 12,
+          "end_pos": 14
+        },
+        {
+          "text": "身热",
+          "type": "症状",
+          "start_pos": 15,
+          "end_pos": 17
+        },
+        {
+          "text": "狂言及惊",
+          "type": "症状",
+          "start_pos": 22,
+          "end_pos": 26
+        },
+        {
+          "text": "胁满痛",
+          "type": "症状",
+          "start_pos": 27,
+          "end_pos": 30
+        },
+        {
+          "text": "手足躁",
+          "type": "症状",
+          "start_pos": 31,
+          "end_pos": 34
+        },
+        {
+          "text": "不得安卧",
+          "type": "症状",
+          "start_pos": 35,
+          "end_pos": 39
+        },
+        {
+          "text": "头痛员员",
+          "type": "症状",
+          "start_pos": 52,
+          "end_pos": 56
+        },
+        {
+          "text": "足厥阴",
+          "type": "穴位",
+          "start_pos": 47,
+          "end_pos": 50
+        },
+        {
+          "text": "少阳",
+          "type": "穴位",
+          "start_pos": 51,
+          "end_pos": 53
+        },
+        {
+          "text": "刺",
+          "type": "治法",
+          "start_pos": 46,
+          "end_pos": 47
+        },
+        {
+          "text": "心热病",
+          "type": "病名",
+          "start_pos": 58,
+          "end_pos": 61
+        },
+        {
+          "text": "不乐",
+          "type": "症状",
+          "start_pos": 63,
+          "end_pos": 65
+        },
+        {
+          "text": "卒心痛",
+          "type": "症状",
+          "start_pos": 72,
+          "end_pos": 75
+        },
+        {
+          "text": "烦闷",
+          "type": "症状",
+          "start_pos": 76,
+          "end_pos": 78
+        },
+        {
+          "text": "善呕",
+          "type": "症状",
+          "start_pos": 79,
+          "end_pos": 81
+        },
+        {
+          "text": "头痛",
+          "type": "症状",
+          "start_pos": 82,
+          "end_pos": 84
+        },
+        {
+          "text": "面赤",
+          "type": "症状",
+          "start_pos": 85,
+          "end_pos": 87
+        },
+        {
+          "text": "无汗",
+          "type": "症状",
+          "start_pos": 88,
+          "end_pos": 90
+        },
+        {
+          "text": "手少阴",
+          "type": "穴位",
+          "start_pos": 107,
+          "end_pos": 110
+        },
+        {
+          "text": "太阳",
+          "type": "穴位",
+          "start_pos": 111,
+          "end_pos": 113
+        },
+        {
+          "text": "刺",
+          "type": "治法",
+          "start_pos": 106,
+          "end_pos": 107
+        },
+        {
+          "text": "脾热病",
+          "type": "病名",
+          "start_pos": 115,
+          "end_pos": 118
+        },
+        {
+          "text": "头重",
+          "type": "症状",
+          "start_pos": 120,
+          "end_pos": 122
+        },
+        {
+          "text": "颊痛",
+          "type": "症状",
+          "start_pos": 123,
+          "end_pos": 125
+        },
+        {
+          "text": "烦心",
+          "type": "症状",
+          "start_pos": 126,
+          "end_pos": 128
+        },
+        {
+          "text": "颜青",
+          "type": "症状",
+          "start_pos": 129,
+          "end_pos": 131
+        },
+        {
+          "text": "欲呕",
+          "type": "症状",
+          "start_pos": 132,
+          "end_pos": 134
+        },
+        {
+          "text": "身热",
+          "type": "症状",
+          "start_pos": 135,
+          "end_pos": 137
+        },
+        {
+          "text": "腰痛",
+          "type": "症状",
+          "start_pos": 142,
+          "end_pos": 144
+        },
+        {
+          "text": "腹满泄",
+          "type": "症状",
+          "start_pos": 152,
+          "end_pos": 155
+        },
+        {
+          "text": "两颔痛",
+          "type": "症状",
+          "start_pos": 156,
+          "end_pos": 159
+        },
+        {
+          "text": "足太阴",
+          "type": "穴位",
+          "start_pos": 170,
+          "end_pos": 173
+        },
+        {
+          "text": "阳明",
+          "type": "穴位",
+          "start_pos": 174,
+          "end_pos": 176
+        },
+        {
+          "text": "刺",
+          "type": "治法",
+          "start_pos": 169,
+          "end_pos": 170
+        },
+        {
+          "text": "肺热病",
+          "type": "病名",
+          "start_pos": 178,
+          "end_pos": 181
+        },
+        {
+          "text": "淅然厥",
+          "type": "症状",
+          "start_pos": 183,
+          "end_pos": 186
+        },
+        {
+          "text": "起毫毛",
+          "type": "症状",
+          "start_pos": 187,
+          "end_pos": 190
+        },
+        {
+          "text": "恶风寒",
+          "type": "症状",
+          "start_pos": 191,
+          "end_pos": 194
+        },
+        {
+          "text": "舌上黄",
+          "type": "症状",
+          "start_pos": 195,
+          "end_pos": 198
+        },
+        {
+          "text": "身热",
+          "type": "症状",
+          "start_pos": 199,
+          "end_pos": 201
+        },
+        {
+          "text": "喘咳",
+          "type": "症状",
+          "start_pos": 206,
+          "end_pos": 208
+        },
+        {
+          "text": "痛走胸膺背",
+          "type": "症状",
+          "start_pos": 209,
+          "end_pos": 214
+        },
+        {
+          "text": "不得太息",
+          "type": "症状",
+          "start_pos": 215,
+          "end_pos": 219
+        },
+        {
+          "text": "头痛不堪",
+          "type": "症状",
+          "start_pos": 220,
+          "end_pos": 224
+        },
+        {
+          "text": "汗出而寒",
+          "type": "症状",
+          "start_pos": 225,
+          "end_pos": 229
+        },
+        {
+          "text": "手太阴",
+          "type": "穴位",
+          "start_pos": 244,
+          "end_pos": 247
+        },
+        {
+          "text": "阳明",
+          "type": "穴位",
+          "start_pos": 248,
+          "end_pos": 250
+        },
+        {
+          "text": "刺",
+          "type": "治法",
+          "start_pos": 243,
+          "end_pos": 244
+        },
+        {
+          "text": "出血如大豆",
+          "type": "治法",
+          "start_pos": 251,
+          "end_pos": 256
+        },
+        {
+          "text": "肾热病",
+          "type": "病名",
+          "start_pos": 258,
+          "end_pos": 261
+        },
+        {
+          "text": "腰痛酸",
+          "type": "症状",
+          "start_pos": 263,
+          "end_pos": 266
+        },
+        {
+          "text": "苦渴数饮",
+          "type": "症状",
+          "start_pos": 267,
+          "end_pos": 271
+        },
+        {
+          "text": "身热",
+          "type": "症状",
+          "start_pos": 272,
+          "end_pos": 274
+        },
+        {
+          "text": "项痛而强",
+          "type": "症状",
+          "start_pos": 279,
+          "end_pos": 283
+        },
+        {
+          "text": "寒且酸",
+          "type": "症状",
+          "start_pos": 284,
+          "end_pos": 287
+        },
+        {
+          "text": "足下热",
+          "type": "症状",
+          "start_pos": 288,
+          "end_pos": 291
+        },
+        {
+          "text": "不欲言",
+          "type": "症状",
+          "start_pos": 292,
+          "end_pos": 295
+        },
+        {
+          "text": "项痛员员澹澹然",
+          "type": "症状",
+          "start_pos": 306,
+          "end_pos": 314
+        },
+        {
+          "text": "足少阴",
+          "type": "穴位",
+          "start_pos": 324,
+          "end_pos": 327
+        },
+        {
+          "text": "太阳",
+          "type": "穴位",
+          "start_pos": 328,
+          "end_pos": 330
+        },
+        {
+          "text": "刺",
+          "type": "治法",
+          "start_pos": 323,
+          "end_pos": 324
+        }
+      ],
+      "processing_time": 94.2412588596344,
+      "text_length": 402,
+      "entity_count": 64,
+      "doc_title": "01 刺热论",
+      "raw_response": "{\n    \"entities\": [\n        {\"text\": \"肝热病\", \"type\": \"病名\", \"start_pos\": 0, \"end_pos\": 3},\n        {\"text\": \"小便先黄\", \"type\": \"症状\", \"start_pos\": 4, \"end_pos\": 8},\n        {\"text\": \"腹痛\", \"type\": \"症状\", \"start_pos\": 9, \"end_pos\": 11},\n        {\"text\": \"多卧\", \"type\": \"症状\", \"start_pos\": 12, \"end_pos\": 14},\n        {\"text\": \"身热\", \"type\": \"症状\", \"start_pos\": 15, \"end_pos\": 17},\n        {\"text\": \"狂言及惊\", \"type\": \"症状\", \"start_pos\": 22, \"end_pos\": 26},\n        {\"text\": \"胁满痛\", \"type\": \"症状\", \"start_pos\": 27, \"end_pos\": 30},\n        {\"text\": \"手足躁\", \"type\": \"症状\", \"start_pos\": 31, \"end_pos\": 34},\n        {\"text\": \"不得安卧\", \"type\": \"症状\", \"start_pos\": 35, \"end_pos\": 39},\n        {\"text\": \"头痛员员\", \"type\": \"症状\", \"start_pos\": 52, \"end_pos\": 56},\n        {\"text\": \"足厥阴\", \"type\": \"穴位\", \"start_pos\": 47, \"end_pos\": 50},\n        {\"text\": \"少阳\", \"type\": \"穴位\", \"start_pos\": 51, \"end_pos\": 53},\n        {\"text\": \"刺\", \"type\": \"治法\", \"start_pos\": 46, \"end_pos\": 47},\n        {\"text\": \"心热病\", \"type\": \"病名\", \"start_pos\": 58, \"end_pos\": 61},\n        {\"text\": \"不乐\", \"type\": \"症状\", \"start_pos\": 63, \"end_pos\": 65},\n        {\"text\": \"卒心痛\", \"type\": \"症状\", \"start_pos\": 72, \"end_pos\": 75},\n        {\"text\": \"烦闷\", \"type\": \"症状\", \"start_pos\": 76, \"end_pos\": 78},\n        {\"text\": \"善呕\", \"type\": \"症状\", \"start_pos\": 79, \"end_pos\": 81},\n        {\"text\": \"头痛\", \"type\": \"症状\", \"start_pos\": 82, \"end_pos\": 84},\n        {\"text\": \"面赤\", \"type\": \"症状\", \"start_pos\": 85, \"end_pos\": 87},\n        {\"text\": \"无汗\", \"type\": \"症状\", \"start_pos\": 88, \"end_pos\": 90},\n        {\"text\": \"手少阴\", \"type\": \"穴位\", \"start_pos\": 107, \"end_pos\": 110},\n        {\"text\": \"太阳\", \"type\": \"穴位\", \"start_pos\": 111, \"end_pos\": 113},\n        {\"text\": \"刺\", \"type\": \"治法\", \"start_pos\": 106, \"end_pos\": 107},\n        {\"text\": \"脾热病\", \"type\": \"病名\", \"start_pos\": 115, \"end_pos\": 118},\n        {\"text\": \"头重\", \"type\": \"症状\", \"start_pos\": 120, \"end_pos\": 122},\n        {\"text\": \"颊痛\", \"type\": \"症状\", \"start_pos\": 123, \"end_pos\": 125},\n        {\"text\": \"烦心\", \"type\": \"症状\", \"start_pos\": 126, \"end_pos\": 128},\n        {\"text\": \"颜青\", \"type\": \"症状\", \"start_pos\": 129, \"end_pos\": 131},\n        {\"text\": \"欲呕\", \"type\": \"症状\", \"start_pos\": 132, \"end_pos\": 134},\n        {\"text\": \"身热\", \"type\": \"症状\", \"start_pos\": 135, \"end_pos\": 137},\n        {\"text\": \"腰痛\", \"type\": \"症状\", \"start_pos\": 142, \"end_pos\": 144},\n        {\"text\": \"腹满泄\", \"type\": \"症状\", \"start_pos\": 152, \"end_pos\": 155},\n        {\"text\": \"两颔痛\", \"type\": \"症状\", \"start_pos\": 156, \"end_pos\": 159},\n        {\"text\": \"足太阴\", \"type\": \"穴位\", \"start_pos\": 170, \"end_pos\": 173},\n        {\"text\": \"阳明\", \"type\": \"穴位\", \"start_pos\": 174, \"end_pos\": 176},\n        {\"text\": \"刺\", \"type\": \"治法\", \"start_pos\": 169, \"end_pos\": 170},\n        {\"text\": \"肺热病\", \"type\": \"病名\", \"start_pos\": 178, \"end_pos\": 181},\n        {\"text\": \"淅然厥\", \"type\": \"症状\", \"start_pos\": 183, \"end_pos\": 186},\n        {\"text\": \"起毫毛\", \"type\": \"症状\", \"start_pos\": 187, \"end_pos\": 190},\n        {\"text\": \"恶风寒\", \"type\": \"症状\", \"start_pos\": 191, \"end_pos\": 194},\n        {\"text\": \"舌上黄\", \"type\": \"症状\", \"start_pos\": 195, \"end_pos\": 198},\n        {\"text\": \"身热\", \"type\": \"症状\", \"start_pos\": 199, \"end_pos\": 201},\n        {\"text\": \"喘咳\", \"type\": \"症状\", \"start_pos\": 206, \"end_pos\": 208},\n        {\"text\": \"痛走胸膺背\", \"type\": \"症状\", \"start_pos\": 209, \"end_pos\": 214},\n        {\"text\": \"不得太息\", \"type\": \"症状\", \"start_pos\": 215, \"end_pos\": 219},\n        {\"text\": \"头痛不堪\", \"type\": \"症状\", \"start_pos\": 220, \"end_pos\": 224},\n        {\"text\": \"汗出而寒\", \"type\": \"症状\", \"start_pos\": 225, \"end_pos\": 229},\n        {\"text\": \"手太阴\", \"type\": \"穴位\", \"start_pos\": 244, \"end_pos\": 247},\n        {\"text\": \"阳明\", \"type\": \"穴位\", \"start_pos\": 248, \"end_pos\": 250},\n        {\"text\": \"刺\", \"type\": \"治法\", \"start_pos\": 243, \"end_pos\": 244},\n        {\"text\": \"出血如大豆\", \"type\": \"治法\", \"start_pos\": 251, \"end_pos\": 256},\n        {\"text\": \"肾热病\", \"type\": \"病名\", \"start_pos\": 258, \"end_pos\": 261},\n        {\"text\": \"腰痛酸\", \"type\": \"症状\", \"start_pos\": 263, \"end_pos\": 266},\n        {\"text\": \"苦渴数饮\", \"type\": \"症状\", \"start_pos\": 267, \"end_pos\": 271},\n        {\"text\": \"身热\", \"type\": \"症状\", \"start_pos\": 272, \"end_pos\": 274},\n        {\"text\": \"项痛而强\", \"type\": \"症状\", \"start_pos\": 279, \"end_pos\": 283},\n        {\"text\": \"寒且酸\", \"type\": \"症状\", \"start_pos\": 284, \"end_pos\": 287},\n        {\"text\": \"足下热\", \"type\": \"症状\", \"start_pos\": 288, \"end_pos\": 291},\n        {\"text\": \"不欲言\", \"type\": \"症状\", \"start_pos\": 292, \"end_pos\": 295},\n        {\"text\": \"项痛员员澹澹然\", \"type\": \"症状\", \"start_pos\": 306, \"end_pos\": 314},\n        {\"text\": \"足少阴\", \"type\": \"穴位\", \"start_pos\": 324, \"end_pos\": 327},\n        {\"text\": \"太阳\", \"type\": \"穴位\", \"start_pos\": 328, \"end_pos\": 330},\n        {\"text\": \"刺\", \"type\": \"治法\", \"start_pos\": 323, \"end_pos\": 324}\n    ]\n}"
+    },
+    "tongyi": {
+      "success": true,
+      "entities": [
+        {
+          "text": "肝热病",
+          "type": "病名",
+          "start_pos": 0,
+          "end_pos": 3
+        },
+        {
+          "text": "小便先黄",
+          "type": "症状",
+          "start_pos": 4,
+          "end_pos": 8
+        },
+        {
+          "text": "腹痛",
+          "type": "症状",
+          "start_pos": 9,
+          "end_pos": 11
+        },
+        {
+          "text": "多卧",
+          "type": "症状",
+          "start_pos": 12,
+          "end_pos": 14
+        },
+        {
+          "text": "身热",
+          "type": "症状",
+          "start_pos": 15,
+          "end_pos": 17
+        },
+        {
+          "text": "狂言及惊",
+          "type": "症状",
+          "start_pos": 19,
+          "end_pos": 23
+        },
+        {
+          "text": "胁满痛",
+          "type": "症状",
+          "start_pos": 24,
+          "end_pos": 27
+        },
+        {
+          "text": "手足躁",
+          "type": "症状",
+          "start_pos": 28,
+          "end_pos": 31
+        },
+        {
+          "text": "不得安卧",
+          "type": "症状",
+          "start_pos": 32,
+          "end_pos": 36
+        },
+        {
+          "text": "庚辛",
+          "type": "症状",
+          "start_pos": 37,
+          "end_pos": 39
+        },
+        {
+          "text": "甲乙",
+          "type": "症状",
+          "start_pos": 40,
+          "end_pos": 42
+        },
+        {
+          "text": "足厥阴",
+          "type": "穴位",
+          "start_pos": 47,
+          "end_pos": 50
+        },
+        {
+          "text": "少阳",
+          "type": "穴位",
+          "start_pos": 51,
+          "end_pos": 53
+        },
+        {
+          "text": "头痛员员",
+          "type": "症状",
+          "start_pos": 57,
+          "end_pos": 61
+        },
+        {
+          "text": "脉引冲头",
+          "type": "症状",
+          "start_pos": 62,
+          "end_pos": 66
+        },
+        {
+          "text": "心热病",
+          "type": "病名",
+          "start_pos": 67,
+          "end_pos": 70
+        },
+        {
+          "text": "不乐",
+          "type": "症状",
+          "start_pos": 71,
+          "end_pos": 73
+        },
+        {
+          "text": "卒心痛",
+          "type": "症状",
+          "start_pos": 77,
+          "end_pos": 80
+        },
+        {
+          "text": "烦闷",
+          "type": "症状",
+          "start_pos": 81,
+          "end_pos": 83
+        },
+        {
+          "text": "善呕",
+          "type": "症状",
+          "start_pos": 84,
+          "end_pos": 86
+        },
+        {
+          "text": "头痛",
+          "type": "症状",
+          "start_pos": 87,
+          "end_pos": 89
+        },
+        {
+          "text": "面赤",
+          "type": "症状",
+          "start_pos": 90,
+          "end_pos": 92
+        },
+        {
+          "text": "无汗",
+          "type": "症状",
+          "start_pos": 93,
+          "end_pos": 95
+        },
+        {
+          "text": "壬癸",
+          "type": "症状",
+          "start_pos": 96,
+          "end_pos": 98
+        },
+        {
+          "text": "丙丁",
+          "type": "症状",
+          "start_pos": 99,
+          "end_pos": 101
+        },
+        {
+          "text": "手少阴",
+          "type": "穴位",
+          "start_pos": 106,
+          "end_pos": 109
+        },
+        {
+          "text": "太阳",
+          "type": "穴位",
+          "start_pos": 110,
+          "end_pos": 112
+        },
+        {
+          "text": "脾热病",
+          "type": "病名",
+          "start_pos": 113,
+          "end_pos": 116
+        },
+        {
+          "text": "头重",
+          "type": "症状",
+          "start_pos": 117,
+          "end_pos": 119
+        },
+        {
+          "text": "颊痛",
+          "type": "症状",
+          "start_pos": 120,
+          "end_pos": 122
+        },
+        {
+          "text": "烦心",
+          "type": "症状",
+          "start_pos": 123,
+          "end_pos": 125
+        },
+        {
+          "text": "颜青",
+          "type": "症状",
+          "start_pos": 126,
+          "end_pos": 128
+        },
+        {
+          "text": "欲呕",
+          "type": "症状",
+          "start_pos": 129,
+          "end_pos": 131
+        },
+        {
+          "text": "腰痛",
+          "type": "症状",
+          "start_pos": 135,
+          "end_pos": 137
+        },
+        {
+          "text": "不可用俯仰",
+          "type": "症状",
+          "start_pos": 138,
+          "end_pos": 144
+        },
+        {
+          "text": "腹满泄",
+          "type": "症状",
+          "start_pos": 145,
+          "end_pos": 148
+        },
+        {
+          "text": "两颔痛",
+          "type": "症状",
+          "start_pos": 149,
+          "end_pos": 152
+        },
+        {
+          "text": "甲乙",
+          "type": "症状",
+          "start_pos": 153,
+          "end_pos": 155
+        },
+        {
+          "text": "戊巳",
+          "type": "症状",
+          "start_pos": 156,
+          "end_pos": 158
+        },
+        {
+          "text": "足太阴",
+          "type": "穴位",
+          "start_pos": 163,
+          "end_pos": 166
+        },
+        {
+          "text": "阳明",
+          "type": "穴位",
+          "start_pos": 167,
+          "end_pos": 169
+        },
+        {
+          "text": "肺热病",
+          "type": "病名",
+          "start_pos": 170,
+          "end_pos": 173
+        },
+        {
+          "text": "淅然厥",
+          "type": "症状",
+          "start_pos": 174,
+          "end_pos": 177
+        },
+        {
+          "text": "起毫毛",
+          "type": "症状",
+          "start_pos": 178,
+          "end_pos": 181
+        },
+        {
+          "text": "恶风寒",
+          "type": "症状",
+          "start_pos": 182,
+          "end_pos": 185
+        },
+        {
+          "text": "舌上黄",
+          "type": "症状",
+          "start_pos": 186,
+          "end_pos": 189
+        },
+        {
+          "text": "喘咳",
+          "type": "症状",
+          "start_pos": 193,
+          "end_pos": 195
+        },
+        {
+          "text": "痛走胸膺背",
+          "type": "症状",
+          "start_pos": 196,
+          "end_pos": 201
+        },
+        {
+          "text": "不得太息",
+          "type": "症状",
+          "start_pos": 202,
+          "end_pos": 206
+        },
+        {
+          "text": "头痛不堪",
+          "type": "症状",
+          "start_pos": 207,
+          "end_pos": 211
+        },
+        {
+          "text": "汗出而寒",
+          "type": "症状",
+          "start_pos": 212,
+          "end_pos": 216
+        },
+        {
+          "text": "丙丁",
+          "type": "症状",
+          "start_pos": 217,
+          "end_pos": 219
+        },
+        {
+          "text": "庚辛",
+          "type": "症状",
+          "start_pos": 220,
+          "end_pos": 222
+        },
+        {
+          "text": "手太阴",
+          "type": "穴位",
+          "start_pos": 227,
+          "end_pos": 230
+        },
+        {
+          "text": "阳明",
+          "type": "穴位",
+          "start_pos": 231,
+          "end_pos": 233
+        },
+        {
+          "text": "出血如大豆",
+          "type": "治法",
+          "start_pos": 234,
+          "end_pos": 240
+        },
+        {
+          "text": "肾热病",
+          "type": "病名",
+          "start_pos": 241,
+          "end_pos": 244
+        },
+        {
+          "text": "腰痛酸",
+          "type": "症状",
+          "start_pos": 245,
+          "end_pos": 248
+        },
+        {
+          "text": "苦渴数饮",
+          "type": "症状",
+          "start_pos": 249,
+          "end_pos": 253
+        },
+        {
+          "text": "项痛而强",
+          "type": "症状",
+          "start_pos": 257,
+          "end_pos": 261
+        },
+        {
+          "text": "寒且酸",
+          "type": "症状",
+          "start_pos": 262,
+          "end_pos": 265
+        },
+        {
+          "text": "足下热",
+          "type": "症状",
+          "start_pos": 266,
+          "end_pos": 269
+        },
+        {
+          "text": "不欲言",
+          "type": "症状",
+          "start_pos": 270,
+          "end_pos": 273
+        },
+        {
+          "text": "项痛员员澹澹然",
+          "type": "症状",
+          "start_pos": 277,
+          "end_pos": 285
+        },
+        {
+          "text": "戊巳",
+          "type": "症状",
+          "start_pos": 286,
+          "end_pos": 288
+        },
+        {
+          "text": "壬癸",
+          "type": "症状",
+          "start_pos": 289,
+          "end_pos": 291
+        },
+        {
+          "text": "足少阴",
+          "type": "穴位",
+          "start_pos": 296,
+          "end_pos": 299
+        },
+        {
+          "text": "太阳",
+          "type": "穴位",
+          "start_pos": 300,
+          "end_pos": 302
+        },
+        {
+          "text": "刺",
+          "type": "治法",
+          "start_pos": 303,
+          "end_pos": 304
+        },
+        {
+          "text": "出血",
+          "type": "治法",
+          "start_pos": 305,
+          "end_pos": 307
+        }
+      ],
+      "processing_time": 36.29704689979553,
+      "text_length": 402,
+      "entity_count": 70,
+      "doc_title": "01 刺热论",
+      "raw_response": "{\n    \"entities\": [\n        {\"text\": \"肝热病\", \"type\": \"病名\", \"start_pos\": 0, \"end_pos\": 3},\n        {\"text\": \"小便先黄\", \"type\": \"症状\", \"start_pos\": 4, \"end_pos\": 8},\n        {\"text\": \"腹痛\", \"type\": \"症状\", \"start_pos\": 9, \"end_pos\": 11},\n        {\"text\": \"多卧\", \"type\": \"症状\", \"start_pos\": 12, \"end_pos\": 14},\n        {\"text\": \"身热\", \"type\": \"症状\", \"start_pos\": 15, \"end_pos\": 17},\n        {\"text\": \"狂言及惊\", \"type\": \"症状\", \"start_pos\": 19, \"end_pos\": 23},\n        {\"text\": \"胁满痛\", \"type\": \"症状\", \"start_pos\": 24, \"end_pos\": 27},\n        {\"text\": \"手足躁\", \"type\": \"症状\", \"start_pos\": 28, \"end_pos\": 31},\n        {\"text\": \"不得安卧\", \"type\": \"症状\", \"start_pos\": 32, \"end_pos\": 36},\n        {\"text\": \"庚辛\", \"type\": \"症状\", \"start_pos\": 37, \"end_pos\": 39},\n        {\"text\": \"甲乙\", \"type\": \"症状\", \"start_pos\": 40, \"end_pos\": 42},\n        {\"text\": \"足厥阴\", \"type\": \"穴位\", \"start_pos\": 47, \"end_pos\": 50},\n        {\"text\": \"少阳\", \"type\": \"穴位\", \"start_pos\": 51, \"end_pos\": 53},\n        {\"text\": \"头痛员员\", \"type\": \"症状\", \"start_pos\": 57, \"end_pos\": 61},\n        {\"text\": \"脉引冲头\", \"type\": \"症状\", \"start_pos\": 62, \"end_pos\": 66},\n        {\"text\": \"心热病\", \"type\": \"病名\", \"start_pos\": 67, \"end_pos\": 70},\n        {\"text\": \"不乐\", \"type\": \"症状\", \"start_pos\": 71, \"end_pos\": 73},\n        {\"text\": \"卒心痛\", \"type\": \"症状\", \"start_pos\": 77, \"end_pos\": 80},\n        {\"text\": \"烦闷\", \"type\": \"症状\", \"start_pos\": 81, \"end_pos\": 83},\n        {\"text\": \"善呕\", \"type\": \"症状\", \"start_pos\": 84, \"end_pos\": 86},\n        {\"text\": \"头痛\", \"type\": \"症状\", \"start_pos\": 87, \"end_pos\": 89},\n        {\"text\": \"面赤\", \"type\": \"症状\", \"start_pos\": 90, \"end_pos\": 92},\n        {\"text\": \"无汗\", \"type\": \"症状\", \"start_pos\": 93, \"end_pos\": 95},\n        {\"text\": \"壬癸\", \"type\": \"症状\", \"start_pos\": 96, \"end_pos\": 98},\n        {\"text\": \"丙丁\", \"type\": \"症状\", \"start_pos\": 99, \"end_pos\": 101},\n        {\"text\": \"手少阴\", \"type\": \"穴位\", \"start_pos\": 106, \"end_pos\": 109},\n        {\"text\": \"太阳\", \"type\": \"穴位\", \"start_pos\": 110, \"end_pos\": 112},\n        {\"text\": \"脾热病\", \"type\": \"病名\", \"start_pos\": 113, \"end_pos\": 116},\n        {\"text\": \"头重\", \"type\": \"症状\", \"start_pos\": 117, \"end_pos\": 119},\n        {\"text\": \"颊痛\", \"type\": \"症状\", \"start_pos\": 120, \"end_pos\": 122},\n        {\"text\": \"烦心\", \"type\": \"症状\", \"start_pos\": 123, \"end_pos\": 125},\n        {\"text\": \"颜青\", \"type\": \"症状\", \"start_pos\": 126, \"end_pos\": 128},\n        {\"text\": \"欲呕\", \"type\": \"症状\", \"start_pos\": 129, \"end_pos\": 131},\n        {\"text\": \"腰痛\", \"type\": \"症状\", \"start_pos\": 135, \"end_pos\": 137},\n        {\"text\": \"不可用俯仰\", \"type\": \"症状\", \"start_pos\": 138, \"end_pos\": 144},\n        {\"text\": \"腹满泄\", \"type\": \"症状\", \"start_pos\": 145, \"end_pos\": 148},\n        {\"text\": \"两颔痛\", \"type\": \"症状\", \"start_pos\": 149, \"end_pos\": 152},\n        {\"text\": \"甲乙\", \"type\": \"症状\", \"start_pos\": 153, \"end_pos\": 155},\n        {\"text\": \"戊巳\", \"type\": \"症状\", \"start_pos\": 156, \"end_pos\": 158},\n        {\"text\": \"足太阴\", \"type\": \"穴位\", \"start_pos\": 163, \"end_pos\": 166},\n        {\"text\": \"阳明\", \"type\": \"穴位\", \"start_pos\": 167, \"end_pos\": 169},\n        {\"text\": \"肺热病\", \"type\": \"病名\", \"start_pos\": 170, \"end_pos\": 173},\n        {\"text\": \"淅然厥\", \"type\": \"症状\", \"start_pos\": 174, \"end_pos\": 177},\n        {\"text\": \"起毫毛\", \"type\": \"症状\", \"start_pos\": 178, \"end_pos\": 181},\n        {\"text\": \"恶风寒\", \"type\": \"症状\", \"start_pos\": 182, \"end_pos\": 185},\n        {\"text\": \"舌上黄\", \"type\": \"症状\", \"start_pos\": 186, \"end_pos\": 189},\n        {\"text\": \"喘咳\", \"type\": \"症状\", \"start_pos\": 193, \"end_pos\": 195},\n        {\"text\": \"痛走胸膺背\", \"type\": \"症状\", \"start_pos\": 196, \"end_pos\": 201},\n        {\"text\": \"不得太息\", \"type\": \"症状\", \"start_pos\": 202, \"end_pos\": 206},\n        {\"text\": \"头痛不堪\", \"type\": \"症状\", \"start_pos\": 207, \"end_pos\": 211},\n        {\"text\": \"汗出而寒\", \"type\": \"症状\", \"start_pos\": 212, \"end_pos\": 216},\n        {\"text\": \"丙丁\", \"type\": \"症状\", \"start_pos\": 217, \"end_pos\": 219},\n        {\"text\": \"庚辛\", \"type\": \"症状\", \"start_pos\": 220, \"end_pos\": 222},\n        {\"text\": \"手太阴\", \"type\": \"穴位\", \"start_pos\": 227, \"end_pos\": 230},\n        {\"text\": \"阳明\", \"type\": \"穴位\", \"start_pos\": 231, \"end_pos\": 233},\n        {\"text\": \"出血如大豆\", \"type\": \"治法\", \"start_pos\": 234, \"end_pos\": 240},\n        {\"text\": \"肾热病\", \"type\": \"病名\", \"start_pos\": 241, \"end_pos\": 244},\n        {\"text\": \"腰痛酸\", \"type\": \"症状\", \"start_pos\": 245, \"end_pos\": 248},\n        {\"text\": \"苦渴数饮\", \"type\": \"症状\", \"start_pos\": 249, \"end_pos\": 253},\n        {\"text\": \"项痛而强\", \"type\": \"症状\", \"start_pos\": 257, \"end_pos\": 261},\n        {\"text\": \"寒且酸\", \"type\": \"症状\", \"start_pos\": 262, \"end_pos\": 265},\n        {\"text\": \"足下热\", \"type\": \"症状\", \"start_pos\": 266, \"end_pos\": 269},\n        {\"text\": \"不欲言\", \"type\": \"症状\", \"start_pos\": 270, \"end_pos\": 273},\n        {\"text\": \"项痛员员澹澹然\", \"type\": \"症状\", \"start_pos\": 277, \"end_pos\": 285},\n        {\"text\": \"戊巳\", \"type\": \"症状\", \"start_pos\": 286, \"end_pos\": 288},\n        {\"text\": \"壬癸\", \"type\": \"症状\", \"start_pos\": 289, \"end_pos\": 291},\n        {\"text\": \"足少阴\", \"type\": \"穴位\", \"start_pos\": 296, \"end_pos\": 299},\n        {\"text\": \"太阳\", \"type\": \"穴位\", \"start_pos\": 300, \"end_pos\": 302},\n        {\"text\": \"刺\", \"type\": \"治法\", \"start_pos\": 303, \"end_pos\": 304},\n        {\"text\": \"出血\", \"type\": \"治法\", \"start_pos\": 305, \"end_pos\": 307},\n        {\"text\": \"补\", \"type\": \"治法\", \"start_pos\": 308, \"end_pos\": 309},\n        {\"text\": \"泻\", \"type\": \"治法\", \"start_pos\": 310, \"end_pos\": 311},\n        {\"text\": \"灸\", \"type\": \"治法\", \"start_pos\": 312, \"end_pos\": 313},\n        {\"text\": \"针刺\", \"type\": \"治法\", \"start_pos\": 314, \"end_pos\": 316},\n        {\"text\": \"平刺\", \"type\": \"治法\", \"start_pos\": 317, \"end_pos\": 319},\n        {\"text\": \"艾灸\", \"type\": \"治法\", \"start_pos\": 320, \"end_pos\": 322}\n    ]\n}"
+    }
+  },
+  "consensus_analysis": {
+    "unanimous": [
+      {
+        "text": "肝热病",
+        "type": "病名",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "肝热病",
+          "type": "病名",
+          "start_pos": 0,
+          "end_pos": 3
+        }
+      },
+      {
+        "text": "小便先黄",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "小便先黄",
+          "type": "症状",
+          "start_pos": 4,
+          "end_pos": 8
+        }
+      },
+      {
+        "text": "腹痛",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "腹痛",
+          "type": "症状",
+          "start_pos": 9,
+          "end_pos": 11
+        }
+      },
+      {
+        "text": "多卧",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "多卧",
+          "type": "症状",
+          "start_pos": 12,
+          "end_pos": 14
+        }
+      },
+      {
+        "text": "胁满痛",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "胁满痛",
+          "type": "症状",
+          "start_pos": 24,
+          "end_pos": 27
+        }
+      },
+      {
+        "text": "手足躁",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "手足躁",
+          "type": "症状",
+          "start_pos": 28,
+          "end_pos": 31
+        }
+      },
+      {
+        "text": "不得安卧",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "不得安卧",
+          "type": "症状",
+          "start_pos": 32,
+          "end_pos": 36
+        }
+      },
+      {
+        "text": "头痛员员",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "头痛员员",
+          "type": "症状",
+          "start_pos": 57,
+          "end_pos": 61
+        }
+      },
+      {
+        "text": "足厥阴",
+        "type": "穴位",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "足厥阴",
+          "type": "穴位",
+          "start_pos": 47,
+          "end_pos": 50
+        }
+      },
+      {
+        "text": "少阳",
+        "type": "穴位",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "少阳",
+          "type": "穴位",
+          "start_pos": 51,
+          "end_pos": 53
+        }
+      },
+      {
+        "text": "心热病",
+        "type": "病名",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "心热病",
+          "type": "病名",
+          "start_pos": 67,
+          "end_pos": 70
+        }
+      },
+      {
+        "text": "卒心痛",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "卒心痛",
+          "type": "症状",
+          "start_pos": 77,
+          "end_pos": 80
+        }
+      },
+      {
+        "text": "烦闷",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "烦闷",
+          "type": "症状",
+          "start_pos": 81,
+          "end_pos": 83
+        }
+      },
+      {
+        "text": "善呕",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "善呕",
+          "type": "症状",
+          "start_pos": 84,
+          "end_pos": 86
+        }
+      },
+      {
+        "text": "头痛",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "头痛",
+          "type": "症状",
+          "start_pos": 87,
+          "end_pos": 89
+        }
+      },
+      {
+        "text": "面赤",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "面赤",
+          "type": "症状",
+          "start_pos": 90,
+          "end_pos": 92
+        }
+      },
+      {
+        "text": "无汗",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "无汗",
+          "type": "症状",
+          "start_pos": 93,
+          "end_pos": 95
+        }
+      },
+      {
+        "text": "手少阴",
+        "type": "穴位",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "手少阴",
+          "type": "穴位",
+          "start_pos": 106,
+          "end_pos": 109
+        }
+      },
+      {
+        "text": "脾热病",
+        "type": "病名",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "脾热病",
+          "type": "病名",
+          "start_pos": 113,
+          "end_pos": 116
+        }
+      },
+      {
+        "text": "头重",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "头重",
+          "type": "症状",
+          "start_pos": 117,
+          "end_pos": 119
+        }
+      },
+      {
+        "text": "颊痛",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "颊痛",
+          "type": "症状",
+          "start_pos": 120,
+          "end_pos": 122
+        }
+      },
+      {
+        "text": "烦心",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "烦心",
+          "type": "症状",
+          "start_pos": 123,
+          "end_pos": 125
+        }
+      },
+      {
+        "text": "腰痛",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "腰痛",
+          "type": "症状",
+          "start_pos": 135,
+          "end_pos": 137
+        }
+      },
+      {
+        "text": "腹满泄",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "腹满泄",
+          "type": "症状",
+          "start_pos": 145,
+          "end_pos": 148
+        }
+      },
+      {
+        "text": "两颔痛",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "两颔痛",
+          "type": "症状",
+          "start_pos": 149,
+          "end_pos": 152
+        }
+      },
+      {
+        "text": "足太阴",
+        "type": "穴位",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "足太阴",
+          "type": "穴位",
+          "start_pos": 163,
+          "end_pos": 166
+        }
+      },
+      {
+        "text": "肺热病",
+        "type": "病名",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "肺热病",
+          "type": "病名",
+          "start_pos": 170,
+          "end_pos": 173
+        }
+      },
+      {
+        "text": "淅然厥",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "淅然厥",
+          "type": "症状",
+          "start_pos": 174,
+          "end_pos": 177
+        }
+      },
+      {
+        "text": "起毫毛",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "起毫毛",
+          "type": "症状",
+          "start_pos": 178,
+          "end_pos": 181
+        }
+      },
+      {
+        "text": "恶风寒",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "恶风寒",
+          "type": "症状",
+          "start_pos": 182,
+          "end_pos": 185
+        }
+      },
+      {
+        "text": "舌上黄",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "舌上黄",
+          "type": "症状",
+          "start_pos": 186,
+          "end_pos": 189
+        }
+      },
+      {
+        "text": "喘咳",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "喘咳",
+          "type": "症状",
+          "start_pos": 193,
+          "end_pos": 195
+        }
+      },
+      {
+        "text": "痛走胸膺背",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "痛走胸膺背",
+          "type": "症状",
+          "start_pos": 196,
+          "end_pos": 201
+        }
+      },
+      {
+        "text": "不得太息",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "不得太息",
+          "type": "症状",
+          "start_pos": 202,
+          "end_pos": 206
+        }
+      },
+      {
+        "text": "头痛不堪",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "头痛不堪",
+          "type": "症状",
+          "start_pos": 207,
+          "end_pos": 211
+        }
+      },
+      {
+        "text": "汗出而寒",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "汗出而寒",
+          "type": "症状",
+          "start_pos": 212,
+          "end_pos": 216
+        }
+      },
+      {
+        "text": "手太阴",
+        "type": "穴位",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "手太阴",
+          "type": "穴位",
+          "start_pos": 227,
+          "end_pos": 230
+        }
+      },
+      {
+        "text": "肾热病",
+        "type": "病名",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "肾热病",
+          "type": "病名",
+          "start_pos": 241,
+          "end_pos": 244
+        }
+      },
+      {
+        "text": "腰痛酸",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "腰痛酸",
+          "type": "症状",
+          "start_pos": 245,
+          "end_pos": 248
+        }
+      },
+      {
+        "text": "苦渴数饮",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "苦渴数饮",
+          "type": "症状",
+          "start_pos": 249,
+          "end_pos": 253
+        }
+      },
+      {
+        "text": "项痛而强",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "项痛而强",
+          "type": "症状",
+          "start_pos": 257,
+          "end_pos": 261
+        }
+      },
+      {
+        "text": "寒且酸",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "寒且酸",
+          "type": "症状",
+          "start_pos": 262,
+          "end_pos": 265
+        }
+      },
+      {
+        "text": "足下热",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "足下热",
+          "type": "症状",
+          "start_pos": 266,
+          "end_pos": 269
+        }
+      },
+      {
+        "text": "不欲言",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "不欲言",
+          "type": "症状",
+          "start_pos": 270,
+          "end_pos": 273
+        }
+      },
+      {
+        "text": "项痛员员澹澹然",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "项痛员员澹澹然",
+          "type": "症状",
+          "start_pos": 277,
+          "end_pos": 285
+        }
+      },
+      {
+        "text": "足少阴",
+        "type": "穴位",
+        "supporting_models": [
+          "doubao",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 3,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "足少阴",
+          "type": "穴位",
+          "start_pos": 296,
+          "end_pos": 299
+        }
+      }
+    ],
+    "majority": [
+      {
+        "text": "脉引冲头",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "tongyi"
+        ],
+        "support_count": 2,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "脉引冲头",
+          "type": "症状",
+          "start_pos": 62,
+          "end_pos": 66
+        }
+      },
+      {
+        "text": "不可用俯仰",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "tongyi"
+        ],
+        "support_count": 2,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "不可用俯仰",
+          "type": "症状",
+          "start_pos": 138,
+          "end_pos": 144
+        }
+      },
+      {
+        "text": "出血",
+        "type": "治法",
+        "supporting_models": [
+          "doubao",
+          "tongyi"
+        ],
+        "support_count": 2,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "出血",
+          "type": "治法",
+          "start_pos": 305,
+          "end_pos": 307
+        }
+      },
+      {
+        "text": "狂言及惊",
+        "type": "症状",
+        "supporting_models": [
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 2,
+        "reliability_score": 0.5,
+        "details": {
+          "text": "狂言及惊",
+          "type": "症状",
+          "start_pos": 19,
+          "end_pos": 23
+        }
+      },
+      {
+        "text": "不乐",
+        "type": "症状",
+        "supporting_models": [
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 2,
+        "reliability_score": 0.5,
+        "details": {
+          "text": "不乐",
+          "type": "症状",
+          "start_pos": 71,
+          "end_pos": 73
+        }
+      },
+      {
+        "text": "颜青",
+        "type": "症状",
+        "supporting_models": [
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 2,
+        "reliability_score": 0.5,
+        "details": {
+          "text": "颜青",
+          "type": "症状",
+          "start_pos": 126,
+          "end_pos": 128
+        }
+      },
+      {
+        "text": "欲呕",
+        "type": "症状",
+        "supporting_models": [
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 2,
+        "reliability_score": 0.5,
+        "details": {
+          "text": "欲呕",
+          "type": "症状",
+          "start_pos": 129,
+          "end_pos": 131
+        }
+      },
+      {
+        "text": "出血如大豆",
+        "type": "治法",
+        "supporting_models": [
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 2,
+        "reliability_score": 0.5,
+        "details": {
+          "text": "出血如大豆",
+          "type": "治法",
+          "start_pos": 234,
+          "end_pos": 240
+        }
+      },
+      {
+        "text": "庚辛",
+        "type": "症状",
+        "supporting_models": [
+          "tongyi",
+          "tongyi"
+        ],
+        "support_count": 2,
+        "reliability_score": 0.3333333333333333,
+        "details": {
+          "text": "庚辛",
+          "type": "症状",
+          "start_pos": 220,
+          "end_pos": 222
+        }
+      },
+      {
+        "text": "甲乙",
+        "type": "症状",
+        "supporting_models": [
+          "tongyi",
+          "tongyi"
+        ],
+        "support_count": 2,
+        "reliability_score": 0.3333333333333333,
+        "details": {
+          "text": "甲乙",
+          "type": "症状",
+          "start_pos": 153,
+          "end_pos": 155
+        }
+      },
+      {
+        "text": "壬癸",
+        "type": "症状",
+        "supporting_models": [
+          "tongyi",
+          "tongyi"
+        ],
+        "support_count": 2,
+        "reliability_score": 0.3333333333333333,
+        "details": {
+          "text": "壬癸",
+          "type": "症状",
+          "start_pos": 289,
+          "end_pos": 291
+        }
+      },
+      {
+        "text": "丙丁",
+        "type": "症状",
+        "supporting_models": [
+          "tongyi",
+          "tongyi"
+        ],
+        "support_count": 2,
+        "reliability_score": 0.3333333333333333,
+        "details": {
+          "text": "丙丁",
+          "type": "症状",
+          "start_pos": 217,
+          "end_pos": 219
+        }
+      },
+      {
+        "text": "戊巳",
+        "type": "症状",
+        "supporting_models": [
+          "tongyi",
+          "tongyi"
+        ],
+        "support_count": 2,
+        "reliability_score": 0.3333333333333333,
+        "details": {
+          "text": "戊巳",
+          "type": "症状",
+          "start_pos": 286,
+          "end_pos": 288
+        }
+      }
+    ],
+    "disputed": [
+      {
+        "text": "身热",
+        "type": "症状",
+        "supporting_models": [
+          "doubao",
+          "doubao",
+          "doubao",
+          "doubao",
+          "deepseek",
+          "deepseek",
+          "deepseek",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 9,
+        "reliability_score": 0.7777777777777778,
+        "details": {
+          "text": "身热",
+          "type": "症状",
+          "start_pos": 15,
+          "end_pos": 17
+        }
+      },
+      {
+        "text": "狂言",
+        "type": "症状",
+        "supporting_models": [
+          "doubao"
+        ],
+        "support_count": 1,
+        "reliability_score": 1.0,
+        "details": {
+          "text": "狂言",
+          "type": "症状",
+          "start_pos": 43,
+          "end_pos": 45
+        }
+      },
+      {
+        "text": "惊",
+        "type": "症状",
+        "supporting_models": [
+          "doubao"
+        ],
+        "support_count": 1,
+        "reliability_score": 1.0,
+        "details": {
+          "text": "惊",
+          "type": "症状",
+          "start_pos": 46,
+          "end_pos": 47
+        }
+      },
+      {
+        "text": "刺",
+        "type": "治法",
+        "supporting_models": [
+          "doubao",
+          "doubao",
+          "doubao",
+          "doubao",
+          "doubao",
+          "deepseek",
+          "deepseek",
+          "deepseek",
+          "deepseek",
+          "deepseek",
+          "tongyi"
+        ],
+        "support_count": 11,
+        "reliability_score": 0.7878787878787878,
+        "details": {
+          "text": "刺",
+          "type": "治法",
+          "start_pos": 303,
+          "end_pos": 304
+        }
+      },
+      {
+        "text": "先不乐",
+        "type": "症状",
+        "supporting_models": [
+          "doubao"
+        ],
+        "support_count": 1,
+        "reliability_score": 1.0,
+        "details": {
+          "text": "先不乐",
+          "type": "症状",
+          "start_pos": 105,
+          "end_pos": 108
+        }
+      },
+      {
+        "text": "热",
+        "type": "症状",
+        "supporting_models": [
+          "doubao"
+        ],
+        "support_count": 1,
+        "reliability_score": 1.0,
+        "details": {
+          "text": "热",
+          "type": "症状",
+          "start_pos": 112,
+          "end_pos": 113
+        }
+      },
+      {
+        "text": "太阳",
+        "type": "穴位",
+        "supporting_models": [
+          "doubao",
+          "doubao",
+          "deepseek",
+          "deepseek",
+          "tongyi",
+          "tongyi"
+        ],
+        "support_count": 6,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "太阳",
+          "type": "穴位",
+          "start_pos": 300,
+          "end_pos": 302
+        }
+      },
+      {
+        "text": "颜青欲呕",
+        "type": "症状",
+        "supporting_models": [
+          "doubao"
+        ],
+        "support_count": 1,
+        "reliability_score": 1.0,
+        "details": {
+          "text": "颜青欲呕",
+          "type": "症状",
+          "start_pos": 164,
+          "end_pos": 168
+        }
+      },
+      {
+        "text": "阳明",
+        "type": "穴位",
+        "supporting_models": [
+          "doubao",
+          "doubao",
+          "deepseek",
+          "deepseek",
+          "tongyi",
+          "tongyi"
+        ],
+        "support_count": 6,
+        "reliability_score": 0.6666666666666666,
+        "details": {
+          "text": "阳明",
+          "type": "穴位",
+          "start_pos": 231,
+          "end_pos": 233
+        }
+      }
+    ],
+    "conflicts": []
+  },
+  "final_entities": [
+    {
+      "text": "肝热病",
+      "type": "病名",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "小便先黄",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "腹痛",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "多卧",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "胁满痛",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "手足躁",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "不得安卧",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "头痛员员",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "足厥阴",
+      "type": "穴位",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "少阳",
+      "type": "穴位",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "心热病",
+      "type": "病名",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "卒心痛",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "烦闷",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "善呕",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "头痛",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "面赤",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "无汗",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "手少阴",
+      "type": "穴位",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "脾热病",
+      "type": "病名",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "头重",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "颊痛",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "烦心",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "腰痛",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "腹满泄",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "两颔痛",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "足太阴",
+      "type": "穴位",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "肺热病",
+      "type": "病名",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "淅然厥",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "起毫毛",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "恶风寒",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "舌上黄",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "喘咳",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "痛走胸膺背",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "不得太息",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "头痛不堪",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "汗出而寒",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "手太阴",
+      "type": "穴位",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "肾热病",
+      "type": "病名",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "腰痛酸",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "苦渴数饮",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "项痛而强",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "寒且酸",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "足下热",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "不欲言",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "项痛员员澹澹然",
+      "type": "症状",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "足少阴",
+      "type": "穴位",
+      "confidence": "high",
+      "source": "unanimous",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "脉引冲头",
+      "type": "症状",
+      "confidence": "high",
+      "source": "majority",
+      "supporting_models": [
+        "doubao",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "不可用俯仰",
+      "type": "症状",
+      "confidence": "high",
+      "source": "majority",
+      "supporting_models": [
+        "doubao",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "出血",
+      "type": "治法",
+      "confidence": "high",
+      "source": "majority",
+      "supporting_models": [
+        "doubao",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "狂言及惊",
+      "type": "症状",
+      "confidence": "medium",
+      "source": "majority",
+      "supporting_models": [
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.5
+    },
+    {
+      "text": "不乐",
+      "type": "症状",
+      "confidence": "medium",
+      "source": "majority",
+      "supporting_models": [
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.5
+    },
+    {
+      "text": "颜青",
+      "type": "症状",
+      "confidence": "medium",
+      "source": "majority",
+      "supporting_models": [
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.5
+    },
+    {
+      "text": "欲呕",
+      "type": "症状",
+      "confidence": "medium",
+      "source": "majority",
+      "supporting_models": [
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.5
+    },
+    {
+      "text": "出血如大豆",
+      "type": "治法",
+      "confidence": "medium",
+      "source": "majority",
+      "supporting_models": [
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.5
+    },
+    {
+      "text": "庚辛",
+      "type": "症状",
+      "confidence": "low",
+      "source": "majority",
+      "supporting_models": [
+        "tongyi",
+        "tongyi"
+      ],
+      "reliability_score": 0.3333333333333333
+    },
+    {
+      "text": "甲乙",
+      "type": "症状",
+      "confidence": "low",
+      "source": "majority",
+      "supporting_models": [
+        "tongyi",
+        "tongyi"
+      ],
+      "reliability_score": 0.3333333333333333
+    },
+    {
+      "text": "壬癸",
+      "type": "症状",
+      "confidence": "low",
+      "source": "majority",
+      "supporting_models": [
+        "tongyi",
+        "tongyi"
+      ],
+      "reliability_score": 0.3333333333333333
+    },
+    {
+      "text": "丙丁",
+      "type": "症状",
+      "confidence": "low",
+      "source": "majority",
+      "supporting_models": [
+        "tongyi",
+        "tongyi"
+      ],
+      "reliability_score": 0.3333333333333333
+    },
+    {
+      "text": "戊巳",
+      "type": "症状",
+      "confidence": "low",
+      "source": "majority",
+      "supporting_models": [
+        "tongyi",
+        "tongyi"
+      ],
+      "reliability_score": 0.3333333333333333
+    },
+    {
+      "text": "身热",
+      "type": "症状",
+      "confidence": "medium",
+      "source": "doubao_only",
+      "supporting_models": [
+        "doubao",
+        "doubao",
+        "doubao",
+        "doubao",
+        "deepseek",
+        "deepseek",
+        "deepseek",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.7777777777777778
+    },
+    {
+      "text": "狂言",
+      "type": "症状",
+      "confidence": "medium",
+      "source": "doubao_only",
+      "supporting_models": [
+        "doubao"
+      ],
+      "reliability_score": 1.0
+    },
+    {
+      "text": "惊",
+      "type": "症状",
+      "confidence": "medium",
+      "source": "doubao_only",
+      "supporting_models": [
+        "doubao"
+      ],
+      "reliability_score": 1.0
+    },
+    {
+      "text": "刺",
+      "type": "治法",
+      "confidence": "medium",
+      "source": "doubao_only",
+      "supporting_models": [
+        "doubao",
+        "doubao",
+        "doubao",
+        "doubao",
+        "doubao",
+        "deepseek",
+        "deepseek",
+        "deepseek",
+        "deepseek",
+        "deepseek",
+        "tongyi"
+      ],
+      "reliability_score": 0.7878787878787878
+    },
+    {
+      "text": "先不乐",
+      "type": "症状",
+      "confidence": "medium",
+      "source": "doubao_only",
+      "supporting_models": [
+        "doubao"
+      ],
+      "reliability_score": 1.0
+    },
+    {
+      "text": "热",
+      "type": "症状",
+      "confidence": "medium",
+      "source": "doubao_only",
+      "supporting_models": [
+        "doubao"
+      ],
+      "reliability_score": 1.0
+    },
+    {
+      "text": "太阳",
+      "type": "穴位",
+      "confidence": "medium",
+      "source": "doubao_only",
+      "supporting_models": [
+        "doubao",
+        "doubao",
+        "deepseek",
+        "deepseek",
+        "tongyi",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    },
+    {
+      "text": "颜青欲呕",
+      "type": "症状",
+      "confidence": "medium",
+      "source": "doubao_only",
+      "supporting_models": [
+        "doubao"
+      ],
+      "reliability_score": 1.0
+    },
+    {
+      "text": "阳明",
+      "type": "穴位",
+      "confidence": "medium",
+      "source": "doubao_only",
+      "supporting_models": [
+        "doubao",
+        "doubao",
+        "deepseek",
+        "deepseek",
+        "tongyi",
+        "tongyi"
+      ],
+      "reliability_score": 0.6666666666666666
+    }
+  ],
+  "review_statistics": {
+    "reviewed": 0,
+    "skipped": 0
+  },
+  "model_reliability": {
+    "doubao": 3,
+    "deepseek": 2,
+    "tongyi": 1
+  },
+  "summary": {
+    "total_final_entities": 68,
+    "unanimous_entities": 46,
+    "majority_entities": 13,
+    "disputed_entities": 9,
+    "conflicts": 0,
+    "human_reviewed": 0
+  }
+}

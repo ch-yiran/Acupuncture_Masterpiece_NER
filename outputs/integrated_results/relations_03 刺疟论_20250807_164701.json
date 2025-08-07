@@ -1,0 +1,814 @@
+{
+  "doc_name": "03 刺疟论",
+  "timestamp": "20250807_164701",
+  "entities": [
+    {
+      "text": "寒从背起",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "先寒后热",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "热止汗出难已",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "身体解",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "寒不甚",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "热不甚",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "恶见人",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "见人心惕惕然",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "热多汗出甚",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "先寒",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "洒淅洒淅",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "寒甚久乃热",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "热去汗出",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "喜见日月光火气",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "乃快然",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "不乐",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "好太息",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "不嗜食",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "多寒热汗出",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "呕已乃衰",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "呕吐甚",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "多寒热",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "热多寒少",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "欲闭户牖而处",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "其病难已",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "少腹满",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "小便不利",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "如癃状",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "数便",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "意恐惧",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "气不足",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "腹中悒悒",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "足太阳之疟",
+      "type": "病名",
+      "confidence": "high"
+    },
+    {
+      "text": "足少阳之疟",
+      "type": "病名",
+      "confidence": "high"
+    },
+    {
+      "text": "足少阳",
+      "type": "穴位",
+      "confidence": "high"
+    },
+    {
+      "text": "足阳明之疟",
+      "type": "病名",
+      "confidence": "high"
+    },
+    {
+      "text": "足阳明",
+      "type": "穴位",
+      "confidence": "high"
+    },
+    {
+      "text": "足太阴之疟",
+      "type": "病名",
+      "confidence": "high"
+    },
+    {
+      "text": "善呕",
+      "type": "症状",
+      "confidence": "high"
+    },
+    {
+      "text": "足少阴之疟",
+      "type": "病名",
+      "confidence": "high"
+    },
+    {
+      "text": "足厥阴之疟",
+      "type": "病名",
+      "confidence": "high"
+    },
+    {
+      "text": "足厥阴",
+      "type": "穴位",
+      "confidence": "high"
+    },
+    {
+      "text": "头重",
+      "type": "症状",
+      "confidence": "medium"
+    },
+    {
+      "text": "刺中出血",
+      "type": "治法",
+      "confidence": "medium"
+    },
+    {
+      "text": "刺足少阳",
+      "type": "治法",
+      "confidence": "medium"
+    },
+    {
+      "text": "刺足阳明跗上",
+      "type": "治法",
+      "confidence": "medium"
+    },
+    {
+      "text": "非癃也",
+      "type": "症状",
+      "confidence": "medium"
+    },
+    {
+      "text": "刺足厥阴",
+      "type": "治法",
+      "confidence": "medium"
+    },
+    {
+      "text": "腰痛头重",
+      "type": "症状",
+      "confidence": "medium"
+    },
+    {
+      "text": "刺",
+      "type": "治法",
+      "confidence": "medium"
+    },
+    {
+      "text": "出血",
+      "type": "治法",
+      "confidence": "medium"
+    },
+    {
+      "text": "跗上",
+      "type": "穴位",
+      "confidence": "medium"
+    },
+    {
+      "text": "取之",
+      "type": "治法",
+      "confidence": "medium"
+    },
+    {
+      "text": "腰痛",
+      "type": "症状",
+      "confidence": "medium"
+    }
+  ],
+  "relations": [
+    {
+      "head": "足太阳之疟",
+      "relation": "MANIFEST",
+      "tail": "腰痛头重",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足太阳之疟",
+      "relation": "MANIFEST",
+      "tail": "寒从背起",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足太阳之疟",
+      "relation": "MANIFEST",
+      "tail": "先寒后热",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足太阳之疟",
+      "relation": "MANIFEST",
+      "tail": "热止汗出难已",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "刺中出血",
+      "relation": "TREAT",
+      "tail": "足太阳之疟",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足少阳之疟",
+      "relation": "MANIFEST",
+      "tail": "身体解",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足少阳之疟",
+      "relation": "MANIFEST",
+      "tail": "寒不甚",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足少阳之疟",
+      "relation": "MANIFEST",
+      "tail": "热不甚",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足少阳之疟",
+      "relation": "MANIFEST",
+      "tail": "恶见人",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足少阳之疟",
+      "relation": "MANIFEST",
+      "tail": "见人心惕惕然",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足少阳之疟",
+      "relation": "MANIFEST",
+      "tail": "热多汗出甚",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "刺足少阳",
+      "relation": "TREAT",
+      "tail": "足少阳之疟",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足少阳",
+      "relation": "MAIN_TREAT",
+      "tail": "足少阳之疟",
+      "confidence": "low",
+      "supporting_models": [
+        "doubao"
+      ],
+      "support_count": 1
+    },
+    {
+      "head": "足阳明之疟",
+      "relation": "MANIFEST",
+      "tail": "先寒",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足阳明之疟",
+      "relation": "MANIFEST",
+      "tail": "洒淅洒淅",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足阳明之疟",
+      "relation": "MANIFEST",
+      "tail": "寒甚久乃热",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足阳明之疟",
+      "relation": "MANIFEST",
+      "tail": "热去汗出",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足阳明之疟",
+      "relation": "MANIFEST",
+      "tail": "喜见日月光火气",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足阳明之疟",
+      "relation": "MANIFEST",
+      "tail": "乃快然",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "刺足阳明跗上",
+      "relation": "TREAT",
+      "tail": "足阳明之疟",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足阳明",
+      "relation": "MAIN_TREAT",
+      "tail": "足阳明之疟",
+      "confidence": "low",
+      "supporting_models": [
+        "doubao"
+      ],
+      "support_count": 1
+    },
+    {
+      "head": "跗上",
+      "relation": "MAIN_TREAT",
+      "tail": "足阳明之疟",
+      "confidence": "low",
+      "supporting_models": [
+        "doubao"
+      ],
+      "support_count": 1
+    },
+    {
+      "head": "足太阴之疟",
+      "relation": "MANIFEST",
+      "tail": "不乐",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足太阴之疟",
+      "relation": "MANIFEST",
+      "tail": "好太息",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足太阴之疟",
+      "relation": "MANIFEST",
+      "tail": "不嗜食",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足太阴之疟",
+      "relation": "MANIFEST",
+      "tail": "多寒热汗出",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足太阴之疟",
+      "relation": "MANIFEST",
+      "tail": "善呕",
+      "confidence": "medium",
+      "supporting_models": [
+        "doubao",
+        "deepseek"
+      ],
+      "support_count": 2
+    },
+    {
+      "head": "足太阴之疟",
+      "relation": "MANIFEST",
+      "tail": "呕已乃衰",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "取之",
+      "relation": "TREAT",
+      "tail": "足太阴之疟",
+      "confidence": "low",
+      "supporting_models": [
+        "doubao"
+      ],
+      "support_count": 1
+    },
+    {
+      "head": "足少阴之疟",
+      "relation": "MANIFEST",
+      "tail": "呕吐甚",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足少阴之疟",
+      "relation": "MANIFEST",
+      "tail": "多寒热",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足少阴之疟",
+      "relation": "MANIFEST",
+      "tail": "热多寒少",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足少阴之疟",
+      "relation": "MANIFEST",
+      "tail": "欲闭户牖而处",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足少阴之疟",
+      "relation": "MANIFEST",
+      "tail": "其病难已",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足厥阴之疟",
+      "relation": "MANIFEST",
+      "tail": "腰痛",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足厥阴之疟",
+      "relation": "MANIFEST",
+      "tail": "少腹满",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足厥阴之疟",
+      "relation": "MANIFEST",
+      "tail": "小便不利",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足厥阴之疟",
+      "relation": "MANIFEST",
+      "tail": "如癃状",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足厥阴之疟",
+      "relation": "MANIFEST",
+      "tail": "非癃也",
+      "confidence": "low",
+      "supporting_models": [
+        "doubao"
+      ],
+      "support_count": 1
+    },
+    {
+      "head": "足厥阴之疟",
+      "relation": "MANIFEST",
+      "tail": "数便",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足厥阴之疟",
+      "relation": "MANIFEST",
+      "tail": "意恐惧",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足厥阴之疟",
+      "relation": "MANIFEST",
+      "tail": "气不足",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足厥阴之疟",
+      "relation": "MANIFEST",
+      "tail": "腹中悒悒",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "刺足厥阴",
+      "relation": "TREAT",
+      "tail": "足厥阴之疟",
+      "confidence": "high",
+      "supporting_models": [
+        "doubao",
+        "deepseek",
+        "tongyi"
+      ],
+      "support_count": 3
+    },
+    {
+      "head": "足厥阴",
+      "relation": "MAIN_TREAT",
+      "tail": "足厥阴之疟",
+      "confidence": "low",
+      "supporting_models": [
+        "doubao"
+      ],
+      "support_count": 1
+    }
+  ],
+  "statistics": {
+    "entity_count": 54,
+    "relation_count": 45,
+    "relation_types": {
+      "TREAT": 5,
+      "MANIFEST": 36,
+      "MAIN_TREAT": 4
+    }
+  }
+}
